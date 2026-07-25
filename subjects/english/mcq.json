@@ -1,0 +1,1874 @@
+[
+  {
+    "id": 1,
+    "q": "What is the most accurate MEANING of the word 'Ambition'?",
+    "opt": [
+      "উচ্চাকাঙ্ক্ষা বা লক্ষ্য অর্জনের তীব্র ইচ্ছা",
+      "অহংকার বা নিজের মতামত চাপিয়ে দেওয়ার প্রবণতা",
+      "লোভ বা অন্যের জিনিস পাওয়ার আকাঙ্ক্ষা",
+      "অস্থিরতা বা এক স্থানে স্থির না থাকার স্বভাব"
+    ],
+    "ans": "উচ্চাকাঙ্ক্ষা বা লক্ষ্য অর্জনের তীব্র ইচ্ছা",
+    "exp": "Ambition মানে কোনো শুভ বা বড় লক্ষ্য অর্জনের সুনির্দিষ্ট তীব্র ইচ্ছা। এটি লোভ (Greed) বা অহংকার (Arrogance) নয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 2,
+    "q": "Choose the correct SYNONYM for 'Ambition':",
+    "opt": [
+      "Aspiration",
+      "Desperation",
+      "Expectation",
+      "Inspiration"
+    ],
+    "ans": "Aspiration",
+    "exp": "Ambition-এর প্রকৃত সমার্থক শব্দ Aspiration (উচ্চাকাঙ্ক্ষা)। Desperation মানে হতাশা বা মরিয়া ভাব, আর Inspiration হলো অনুপ্রেরণা।",
+    "lev": 0.6
+  },
+  {
+    "id": 3,
+    "q": "Choose the correct ANTONYM for 'Ambition':",
+    "opt": [
+      "Apathy",
+      "Satisfaction",
+      "Restlessness",
+      "Humility"
+    ],
+    "ans": "Apathy",
+    "exp": "Ambition (উদ্দীপনা/উচ্চাকাঙ্ক্ষা)-এর বিপরীত শব্দ হলো Apathy (উদাসীনতা বা কোনো কিছু অর্জনের অনিচ্ছা)।",
+    "lev": 1.0
+  },
+  {
+    "id": 4,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Ambition",
+      "Ambision",
+      "Ambiton",
+      "Ambeation"
+    ],
+    "ans": "Ambition",
+    "exp": "সঠিক বানান হলো 'Ambition'—যেখানে শেষে '-tion' ব্যবহৃত হয়, '-sion' নয়।",
+    "lev": 0.3
+  },
+  {
+    "id": 5,
+    "q": "What is the most accurate MEANING of the word 'Enthusiastic'?",
+    "opt": [
+      "উদ্যমী",
+      "উত্তেজিত",
+      "কৌতূহলী",
+      "আবেগপ্রবণ"
+    ],
+    "ans": "উদ্যমী",
+    "exp": "Enthusiastic মানে কোনো কিছুর প্রতি তীব্র আগ্রহী বা উদ্যমী।",
+    "lev": 0.5
+  },
+  {
+    "id": 6,
+    "q": "Choose the correct SYNONYM for 'Enthusiastic':",
+    "opt": [
+      "Eager",
+      "Agitated",
+      "Obsessive",
+      "Fanatic"
+    ],
+    "ans": "Eager",
+    "exp": "Enthusiastic-এর সঠিক সমার্থক শব্দ Eager (আগ্রহী/উদ্যমী)।",
+    "lev": 0.6
+  },
+  {
+    "id": 7,
+    "q": "Choose the correct ANTONYM for 'Enthusiastic':",
+    "opt": [
+      "Indifferent",
+      "Reluctant",
+      "Pessimistic",
+      "Depressed"
+    ],
+    "ans": "Indifferent",
+    "exp": "Enthusiastic (উদ্যমী)-এর বিপরীত শব্দ Indifferent (উদাসীন)।",
+    "lev": 1.0
+  },
+  {
+    "id": 8,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Enthusiastic",
+      "Enthusiostic",
+      "Enthusiastick",
+      "Enthusiastication"
+    ],
+    "ans": "Enthusiastic",
+    "exp": "সঠিক বানান: E-N-T-H-U-S-I-A-S-T-I-C।",
+    "lev": 0.3
+  },
+  {
+    "id": 9,
+    "q": "What is the most accurate MEANING of the word 'Genre'?",
+    "opt": [
+      "ধরন",
+      "শৈলী",
+      "বিষয়",
+      "শ্রেণী"
+    ],
+    "ans": "ধরন",
+    "exp": "Genre মানে সাহিত্য, শিল্প বা সঙ্গীতের নির্দিষ্ট ধরন বা রূপ (Category/Type)।",
+    "lev": 0.5
+  },
+  {
+    "id": 10,
+    "q": "Choose the correct SYNONYM for 'Genre':",
+    "opt": [
+      "Category",
+      "Style",
+      "Gender",
+      "Generation"
+    ],
+    "ans": "Category",
+    "exp": "Genre-এর সবচেয়ে নিখুঁত সমার্থক শব্দ হলো Category (শ্রেণী/ধরন)। Style মানে শৈলী বা পরিবেশনার উপায়।",
+    "lev": 0.6
+  },
+  {
+    "id": 11,
+    "q": "Choose the correct ANTONYM for 'Genre':",
+    "opt": [
+      "Miscellany",
+      "Similarity",
+      "Unconformity",
+      "Singularity"
+    ],
+    "ans": "Miscellany",
+    "exp": "Genre নির্দিষ্ট কোনো নির্দিষ্ট বর্গ বা রূপ নির্দেশ করে, এর বিপরীত হলো Miscellany (বিভিন্ন বিষয়ের সংমিশ্রণ বা খিচুড়ি/মিশ্রণ)।",
+    "lev": 1.0
+  },
+  {
+    "id": 12,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Genre",
+      "Jenre",
+      "Genra",
+      "Zhanre"
+    ],
+    "ans": "Genre",
+    "exp": "এটি একটি ফরাসি মূলের শব্দ, সঠিক বানান G-E-N-R-E (উচ্চারণ 'ঝঁরা')।",
+    "lev": 0.3
+  },
+  {
+    "id": 13,
+    "q": "What is the most accurate MEANING of the word 'Tragedy'?",
+    "opt": [
+      "বিপর্যয়",
+      "দুর্ঘটনা",
+      "হতাশা",
+      "ব্যর্থতা"
+    ],
+    "ans": "বিপর্যয়",
+    "exp": "Tragedy মানে চরম দুঃখজনক বা বিয়োগান্তক বিপর্যয় (Disaster/Calamity)।",
+    "lev": 0.4
+  },
+  {
+    "id": 14,
+    "q": "Choose the correct SYNONYM for 'Tragedy':",
+    "opt": [
+      "Calamity",
+      "Mishap",
+      "Adversity",
+      "Grief"
+    ],
+    "ans": "Calamity",
+    "exp": "Tragedy-এর নিখুঁত সমার্থক হলো Calamity (মহাবিপর্যয়)। Mishap মানে ছোটখাটো দুর্ঘটনা।",
+    "lev": 0.6
+  },
+  {
+    "id": 15,
+    "q": "Choose the correct ANTONYM for 'Tragedy':",
+    "opt": [
+      "Comedy",
+      "Triumph",
+      "Fortune",
+      "Blessing"
+    ],
+    "ans": "Comedy",
+    "exp": "নাটক বা সাহিত্যের প্রেক্ষাপটে Tragedy (বিয়োগান্তক)-এর মূল বিপরীত হলো Comedy (মিলনান্তক বা আনন্দদায়ক)।",
+    "lev": 0.5
+  },
+  {
+    "id": 16,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Tragedy",
+      "Trajedy",
+      "Tragidy",
+      "Tragedey"
+    ],
+    "ans": "Tragedy",
+    "exp": "সঠিক বানান T-R-A-G-E-D-Y (মাঝখানে 'g' হবে, 'j' নয়)।",
+    "lev": 0.3
+  },
+  {
+    "id": 17,
+    "q": "What is the most accurate MEANING of the word 'Automate'?",
+    "opt": [
+      "স্বয়ংক্রিয় করা",
+      "দ্রুত করা",
+      "যান্ত্রিক করা",
+      "ডিজিটাল করা"
+    ],
+    "ans": "স্বয়ংক্রিয় করা",
+    "exp": "Automate মানে কোনো কাজকে মানুষ ছাড়া নিজে নিজে বা যান্ত্রিকভাবে চালনার উপযোগী করা (স্বয়ংক্রিয় করা)।",
+    "lev": 0.4
+  },
+  {
+    "id": 18,
+    "q": "Choose the correct SYNONYM for 'Automate':",
+    "opt": [
+      "Mechanize",
+      "Accelerate",
+      "Modernize",
+      "Systematize"
+    ],
+    "ans": "Mechanize",
+    "exp": "Automate-এর সবচেয়ে সঠিক সমার্থক হলো Mechanize (যন্ত্রচালিত বা স্বয়ংক্রিয় করা)। Accelerate মানে গতি বাড়ানো।",
+    "lev": 0.6
+  },
+  {
+    "id": 19,
+    "q": "Choose the correct ANTONYM for 'Automate':",
+    "opt": [
+      "Manualize",
+      "Complicate",
+      "Retard",
+      "Deactivate"
+    ],
+    "ans": "Manualize",
+    "exp": "Automate (স্বয়ংক্রিয় করা)-এর বিপরীত হলো Manualize (হাত দিয়ে বা কায়িক পরিশ্রমে সম্পাদন করা)।",
+    "lev": 0.8
+  },
+  {
+    "id": 20,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Automate",
+      "Ottomate",
+      "Automait",
+      "Auttomate"
+    ],
+    "ans": "Automate",
+    "exp": "সঠিক বানান A-U-T-O-M-A-T-E (একটি 't' এবং শেষে '-mate')।",
+    "lev": 0.3
+  },
+  {
+    "id": 21,
+    "q": "What is the most accurate MEANING of the word 'Tailored'?",
+    "opt": [
+      "উপযোগী",
+      "সেলাইকৃত",
+      "পরিকল্পিত",
+      "পরিবর্তিত"
+    ],
+    "ans": "উপযোগী",
+    "exp": "Tailored মানে নির্দিষ্ট কোনো উদ্দেশ্যে বা ব্যক্তির সুবিধার্থে বিশেষভাবে তৈরি বা উপযোগী (Customized)।",
+    "lev": 0.5
+  },
+  {
+    "id": 22,
+    "q": "Choose the correct SYNONYM for 'Tailored':",
+    "opt": [
+      "Customized",
+      "Stitched",
+      "Standardized",
+      "Altered"
+    ],
+    "ans": "Customized",
+    "exp": "Tailored-এর সবচেয়ে নিখুঁত সমার্থক হলো Customized (বিশেষভাবে মানানসই করে প্রস্তুতকৃত)।",
+    "lev": 0.6
+  },
+  {
+    "id": 23,
+    "q": "Choose the correct ANTONYM for 'Tailored':",
+    "opt": [
+      "Generic",
+      "Unsuited",
+      "Imperfect",
+      "Mismatched"
+    ],
+    "ans": "Generic",
+    "exp": "Tailored (বিশেষভাবে নির্ধারিত)-এর বিপরীত হলো Generic (সাধারণ বা সবার জন্য একই রকম)।",
+    "lev": 0.9
+  },
+  {
+    "id": 24,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Tailored",
+      "Tailard",
+      "Taylored",
+      "Tailord"
+    ],
+    "ans": "Tailored",
+    "exp": "সঠিক বানান T-A-I-L-O-R-E-D (মাঝখানে 'or' হবে, 'ar' নয়)।",
+    "lev": 0.3
+  },
+  {
+    "id": 25,
+    "q": "What is the most accurate MEANING of the word 'Adaptive'?",
+    "opt": [
+      "অভিযোজনক্ষম",
+      "পরিবর্তনশীল",
+      "সহনশীল",
+      "নমনীয়"
+    ],
+    "ans": "অভিযোজনক্ষম",
+    "exp": "Adaptive মানে নতুন পরিবেশ বা পরিস্থিতির সাথে নিজেকে খাপ খাইয়ে নেওয়ার ক্ষমতা থাকা (অভিযোজনক্ষম)।",
+    "lev": 0.5
+  },
+  {
+    "id": 26,
+    "q": "Choose the correct SYNONYM for 'Adaptive':",
+    "opt": [
+      "Flexible",
+      "Versatile",
+      "Adjustable",
+      "Compliant"
+    ],
+    "ans": "Adjustable",
+    "exp": "Adaptive-এর সরাসরি সমার্থক হলো Adjustable (যেটিকে মানিয়ে বা খাপ খাইয়ে নেওয়া যায়)। Flexible মানে নমনীয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 27,
+    "q": "Choose the correct ANTONYM for 'Adaptive':",
+    "opt": [
+      "Rigid",
+      "Obstinate",
+      "Static",
+      "Inflexible"
+    ],
+    "ans": "Inflexible",
+    "exp": "Adaptive (পরিবর্তনের সাথে খাপ খাওয়াতে সক্ষম)-এর সরাসরি বিপরীত হলো Inflexible (অনমনীয় বা যা খাপ খায় না)।",
+    "lev": 0.8
+  },
+  {
+    "id": 28,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Adaptive",
+      "Adoptive",
+      "Adaptiv",
+      "Addaptive"
+    ],
+    "ans": "Adaptive",
+    "exp": "সঠিক বানান A-D-A-P-T-I-V-E ('Adapt' শব্দ থেকে এসেছে)। Adoptive মানে দত্তক সংক্রান্ত।",
+    "lev": 0.3
+  },
+  {
+    "id": 29,
+    "q": "What is the most precise MEANING of the word 'Redundant' in academic contexts?",
+    "opt": [
+      "প্রয়োজনাতিরিক্ত",
+      "অপ্রয়োজনীয়",
+      "পুনরাবৃত্তিমূলক",
+      "অনুপযোগী"
+    ],
+    "ans": "প্রয়োজনাতিরিক্ত",
+    "exp": "Redundant মানে অতিরিক্ত বা প্রয়োজনের চেয়ে বেশি হওয়ার কারণে যা বাদ দেওয়া যায় (Surplus/Superfluous)। এটি সরাসরি 'অপ্রয়োজনীয়' নয়, বরং 'প্রয়োজনাতিরিক্ত'।",
+    "lev": 0.6
+  },
+  {
+    "id": 30,
+    "q": "Choose the most appropriate SYNONYM for 'Redundant':",
+    "opt": [
+      "Superfluous",
+      "Tautological",
+      "Excessive",
+      "Unimportant"
+    ],
+    "ans": "Superfluous",
+    "exp": "Admission ও BCS-এর জন্য 'Superfluous' হলো Redundant-এর সবচেয়ে উপযুক্ত ও স্ট্যান্ডার্ড সমার্থক শব্দ। Tautological কেবল ভাষার পুনরাবৃত্তির ক্ষেত্রে ব্যবহৃত হয়।",
+    "lev": 0.8
+  },
+  {
+    "id": 31,
+    "q": "Choose the correct ANTONYM for 'Redundant':",
+    "opt": [
+      "Essential",
+      "Indispensable",
+      "Scarce",
+      "Concise"
+    ],
+    "ans": "Essential",
+    "exp": "Redundant (প্রয়োজনাতিরিক্ত)-এর মূল বিপরীত হলো Essential (জরুরি/মৌলিক)। Indispensable মানে অপরিহার্য, কিন্তু প্রয়োজনের তুলনায় অতিরিক্ততার বিপরীতে Essential বেশি নিখুঁত।",
+    "lev": 1.0
+  },
+  {
+    "id": 32,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Redundant",
+      "Redundent",
+      "Reredundant",
+      "Redundence"
+    ],
+    "ans": "Redundant",
+    "exp": "সঠিক বানান R-E-D-U-N-D-A-N-T (শেষে '-dant' হবে, '-dent' নয়)।",
+    "lev": 0.4
+  },
+  {
+    "id": 33,
+    "q": "What is the most precise MEANING of the word 'Accessible'?",
+    "opt": [
+      "সুগম",
+      "সহজবোধ্য",
+      "উপলব্ধ",
+      "সহজলভ্য"
+    ],
+    "ans": "সুগম",
+    "exp": "Accessible বলতে মূলত যেখানে সহজে পৌঁছানো যায় বা প্রবেশ করা যায় (সুগম/প্রবেশযোগ্য) তা বোঝায়। এছাড়া সহজে অনুমেয় বা গ্রহণযোগ্য অর্থও প্রকাশ করতে পারে।",
+    "lev": 0.5
+  },
+  {
+    "id": 34,
+    "q": "Choose the most appropriate SYNONYM for 'Accessible':",
+    "opt": [
+      "Approachable",
+      "Available",
+      "Understandable",
+      "Feasible"
+    ],
+    "ans": "Approachable",
+    "exp": "Accessible-এর সবচেয়ে নিখুঁত সমার্থক শব্দ Approachable (গমনযোগ্য বা সহজে পৌঁছানো যায় এমন)। Available মানে লভ্য, যা কিছুটা ভিন্ন।",
+    "lev": 0.7
+  },
+  {
+    "id": 35,
+    "q": "Choose the correct ANTONYM for 'Accessible':",
+    "opt": [
+      "Inaccessible",
+      "Impervious",
+      "Unreachable",
+      "Remote"
+    ],
+    "ans": "Inaccessible",
+    "exp": "Accessible-এর সরাসরি প্রিফিক্সযুক্ত বিপরীত শব্দ হলো Inaccessible। Impervious মানে অপ্রবেশ্য বা প্রভাবহীন।",
+    "lev": 0.8
+  },
+  {
+    "id": 36,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Accessible",
+      "Acessible",
+      "Accessable",
+      "Acessable"
+    ],
+    "ans": "Accessible",
+    "exp": "সঠিক বানান A-C-C-E-S-S-I-B-L-E (এতে দুটি 'c', দুটি 's' এবং শেষে '-ible' ব্যবহৃত হয়, '-able' নয়)।",
+    "lev": 0.5
+  },
+  {
+    "id": 37,
+    "q": "What is the most precise MEANING of the word 'Transparent' in formal contexts?",
+    "opt": [
+      "স্বচ্ছ",
+      "স্পষ্ট",
+      "স্পষ্টভাষী",
+      "নির্মল"
+    ],
+    "ans": "স্বচ্ছ",
+    "exp": "Transparent মানে যার ভেতর দিয়ে আলো চলাচল করতে পারে বা যা কোনো কিছু গোপন করে না (স্বচ্ছ/কপটতাহীন)।",
+    "lev": 0.5
+  },
+  {
+    "id": 38,
+    "q": "Choose the most appropriate SYNONYM for 'Transparent':",
+    "opt": [
+      "Pellucid",
+      "Luminous",
+      "Translucent",
+      "Explicit"
+    ],
+    "ans": "Pellucid",
+    "exp": "Pellucid মানে একদম কাঁচের মতো পরিষ্কার বা অতি স্বচ্ছ (Transparent)। Translucent মানে আংশিক স্বচ্ছ, যা আলোর পুরো অংশ পার হতে দেয় না।",
+    "lev": 0.8
+  },
+  {
+    "id": 39,
+    "q": "Choose the correct ANTONYM for 'Transparent':",
+    "opt": [
+      "Opaque",
+      "Ambiguous",
+      "Obscure",
+      "Vague"
+    ],
+    "ans": "Opaque",
+    "exp": "Transparent (স্বচ্ছ)-এর সরাসরি বিপরীত হলো Opaque (অস্বচ্ছ)। Ambiguous বা Vague মূলত অস্পষ্ট বক্তব্য প্রকাশে ব্যবহৃত হয়।",
+    "lev": 0.7
+  },
+  {
+    "id": 40,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Transparent",
+      "Transperent",
+      "Transparant",
+      "Transperant"
+    ],
+    "ans": "Transparent",
+    "exp": "সঠিক বানান T-R-A-N-S-P-A-R-E-N-T (মাঝখানে 'par' এবং শেষে '-ent' হবে)।",
+    "lev": 0.4
+  },
+  {
+    "id": 41,
+    "q": "What is the most precise MEANING of the word 'Accordance'?",
+    "opt": [
+      "সামঞ্জস্য",
+      "সম্মতি",
+      "চুক্তি",
+      "আনুগত্য"
+    ],
+    "ans": "সামঞ্জস্য",
+    "exp": "Accordance মানে নিয়ম, চুক্তি বা পরিস্থিতির সাথে মিল বা সামঞ্জস্য রেখে কাজ করা (Conformity/Agreement)।",
+    "lev": 0.5
+  },
+  {
+    "id": 42,
+    "q": "Choose the most appropriate SYNONYM for 'Accordance':",
+    "opt": [
+      "Conformity",
+      "Compliance",
+      "Consensus",
+      "Cohesion"
+    ],
+    "ans": "Conformity",
+    "exp": "Accordance-এর সঠিক সমার্থক শব্দ হলো Conformity (সামঞ্জস্য বা নিয়ম মেনে চলা)। Compliance মানে বাধ্যতা বা নিয়ম পালন।",
+    "lev": 0.8
+  },
+  {
+    "id": 43,
+    "q": "Choose the correct ANTONYM for 'Accordance':",
+    "opt": [
+      "Discrepancy",
+      "Dissent",
+      "Divergence",
+      "Discordance"
+    ],
+    "ans": "Discordance",
+    "exp": "Accordance (সামঞ্জস্য/ঐক্য)-এর সরাসরি বিপরীত শব্দ হলো Discordance (অসামঞ্জস্য/অনৈক্য)।",
+    "lev": 1.0
+  },
+  {
+    "id": 44,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Accordance",
+      "Accordence",
+      "Akkordance",
+      "Acordance"
+    ],
+    "ans": "Accordance",
+    "exp": "সঠিক বানান A-C-C-O-R-D-A-N-C-E (দুটি 'c' এবং শেষে '-ance' হবে, '-ence' নয়)।",
+    "lev": 0.4
+  },
+  {
+    "id": 45,
+    "q": "What is the most precise MEANING of the word 'Caution'?",
+    "opt": [
+      "সাবধানতা",
+      "সচেতনতা",
+      "ভীতি",
+      "সন্দেহ"
+    ],
+    "ans": "সাবধানতা",
+    "exp": "Caution মানে বিপদ বা ভুল এড়ানোর উদ্দেশ্যে গৃহীত সতর্কতামূলক সতর্কতা বা সাবধানতা (Prudence/Care)।",
+    "lev": 0.5
+  },
+  {
+    "id": 46,
+    "q": "Choose the most appropriate SYNONYM for 'Caution':",
+    "opt": [
+      "Prudence",
+      "Awareness",
+      "Hesitation",
+      "Vigilance"
+    ],
+    "ans": "Prudence",
+    "exp": "Caution (সাবধানতা)-এর সবচেয়ে নিখুঁত সমার্থক শব্দ হলো Prudence (দূরদর্শিতা বা বিজ্ঞতার সাথে সতর্ক থাকা)। Vigilance মানে পাহারা বা নজরদারি।",
+    "lev": 0.8
+  },
+  {
+    "id": 47,
+    "q": "Choose the correct ANTONYM for 'Caution':",
+    "opt": [
+      "Recklessness",
+      "Negligence",
+      "Imprudence",
+      "Indiscretion"
+    ],
+    "ans": "Recklessness",
+    "exp": "Caution (সাবধানতা)-এর মূল বিপরীত হলো Recklessness (বেপরোয়া ভাব)। Imprudence মানে অবিবেচক কাজ।",
+    "lev": 0.8
+  },
+  {
+    "id": 48,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Caution",
+      "Causion",
+      "Coshun",
+      "Cauton"
+    ],
+    "ans": "Caution",
+    "exp": "সঠিক বানান C-A-U-T-I-O-N (শেষে '-tion' হবে, '-sion' বা অন্য কিছু নয়)।",
+    "lev": 0.3
+  },
+  {
+    "id": 49,
+    "q": "What is the most precise MEANING of the word 'Sparkled'?",
+    "opt": [
+      "ঝলমল করেছিল",
+      "জ্বলছিল",
+      "প্রভা ছড়িয়েছিল",
+      "আলোকিত করেছিল"
+    ],
+    "ans": "ঝলমল করেছিল",
+    "exp": "Sparkled মানে আলোকচ্ছটা ফেলে ক্ষণে ক্ষণে উজ্জ্বলভাবে ঝলমল করা বা মিটমিট করে চকচক করা (Shone brightly with flashes of light)।",
+    "lev": 0.5
+  },
+  {
+    "id": 50,
+    "q": "Choose the most appropriate SYNONYM for 'Sparkled':",
+    "opt": [
+      "Glinted",
+      "Illuminated",
+      "Blazed",
+      "Radiated"
+    ],
+    "ans": "Glinted",
+    "exp": "Sparkled-এর সবচেয়ে নিখুঁত সমার্থক শব্দ হলো Glinted (ক্ষণিকের জন্য চকচক করা বা আলো ঠিকরে পড়া)। Illuminated মানে আলোকিত করা, Blazed মানে তীব্রভাবে জ্বালা।",
+    "lev": 0.8
+  },
+  {
+    "id": 51,
+    "q": "Choose the correct ANTONYM for 'Sparkled':",
+    "opt": [
+      "Dimmed",
+      "Faded",
+      "Extinguished",
+      "Darkened"
+    ],
+    "ans": "Dimmed",
+    "exp": "Sparkled (ঝলমল করেছিল/উজ্জ্বল আলো দেওয়া)-এর মূল বিপরীত হলো Dimmed (নিস্তেজ বা মলিন হয়ে যাওয়া)।",
+    "lev": 0.7
+  },
+  {
+    "id": 52,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Sparkled",
+      "Sparkeled",
+      "Sparkld",
+      "Spackled"
+    ],
+    "ans": "Sparkled",
+    "exp": "সঠিক বানান S-P-A-R-K-L-E-D (মূল শব্দ 'Sparkle'-এর সাথে 'd' যুক্ত হয়ে অতীত রূপ তৈরি হয়, অতিরিক্ত 'e' বসে না)।",
+    "lev": 0.4
+  },
+  {
+    "id": 53,
+    "q": "What is the most precise MEANING of the word 'Startled'?",
+    "opt": [
+      "চমকিত",
+      "ভীত",
+      "বিস্মিত",
+      "বিচলিত"
+    ],
+    "ans": "চমকিত",
+    "exp": "Startled মানে হঠাৎ অপ্রস্তুত অবস্থায় কোনো কিছু দেখে বা শুনে চমকে যাওয়া বা আঁতকে ওঠা (Shocked/Surprised suddenly)।",
+    "lev": 0.5
+  },
+  {
+    "id": 54,
+    "q": "Choose the most appropriate SYNONYM for 'Startled':",
+    "opt": [
+      "Astonished",
+      "Frightened",
+      "Alarmed",
+      "Bewildered"
+    ],
+    "ans": "Alarmed",
+    "exp": "Startled-এর সবচেয়ে নিখুঁত সমার্থক শব্দ হলো Alarmed (আকস্মিক ভীতি বা চমক লাগা)। Astonished মানে বিস্ময় প্রকাশ করা, কিন্তু তাতে আকস্মিক ভীতি থাকে না।",
+    "lev": 0.8
+  },
+  {
+    "id": 55,
+    "q": "Choose the correct ANTONYM for 'Startled':",
+    "opt": [
+      "Composed",
+      "Unmoved",
+      "Fearless",
+      "Indifferent"
+    ],
+    "ans": "Composed",
+    "exp": "Startled (চমকিত/আঁতকে ওঠা)-এর মূল বিপরীত হলো Composed (শান্ত, ধীর-স্থির ও মানসিক ভারসাম্য বজায় রাখা)।",
+    "lev": 0.9
+  },
+  {
+    "id": 56,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Startled",
+      "Starteld",
+      "Stortled",
+      "Stalled"
+    ],
+    "ans": "Startled",
+    "exp": "সঠিক বানান S-T-A-R-T-L-E-D (মূল শব্দ 'Startle'-এর সাথে 'd' যুক্ত হয়)।",
+    "lev": 0.4
+  },
+  {
+    "id": 57,
+    "q": "What is the most precise MEANING of the word 'Awfully' in formal contexts?",
+    "opt": [
+      "অত্যন্ত",
+      "ভয়ঙ্করভাবে",
+      "খারাপভাবে",
+      "ভীতিজনকভাবে"
+    ],
+    "ans": "অত্যন্ত",
+    "exp": "Awfully শব্দটি আধুনিক ইংরেজিতে মূলত Adverb অফ ডিগ্রি হিসেবে 'অত্যন্ত' বা 'খুবই' (Extremely) অর্থে ব্যবহৃত হয়। তবে প্রাচীন বা মূল অর্থে এটি 'ভয়ঙ্করভাবে' অর্থও নির্দেশ করে।",
+    "lev": 0.5
+  },
+  {
+    "id": 58,
+    "q": "Choose the most appropriate SYNONYM for 'Awfully':",
+    "opt": [
+      "Extremely",
+      "Terribly",
+      "Dreadfully",
+      "Severely"
+    ],
+    "ans": "Extremely",
+    "exp": "কন্টেক্সট অনুযায়ী 'Awfully'-এর সবচেয়ে সেরা সমার্থক শব্দ 'Extremely' (অত্যন্ত)। Terribly বা Dreadfully খারাপ ক্ষেত্রে ব্যবহৃত হয়, কিন্তু Awfully ভালো-খারাপ উভয় ক্ষেত্রে জোর দিতে ব্যবহৃত হয়।",
+    "lev": 0.8
+  },
+  {
+    "id": 59,
+    "q": "Choose the correct ANTONYM for 'Awfully':",
+    "opt": [
+      "Mildly",
+      "Slightly",
+      "Pleasantly",
+      "Barely"
+    ],
+    "ans": "Mildly",
+    "exp": "Awfully (অত্যন্ত/তীব্র মাত্রায়)-এর মূল বিপরীত হলো Mildly (মৃদুভাবে/সামান্য মাত্রায়)।",
+    "lev": 0.8
+  },
+  {
+    "id": 60,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Awfully",
+      "Awfullye",
+      "Awfuly",
+      "Affully"
+    ],
+    "ans": "Awfully",
+    "exp": "সঠিক বানান A-W-F-U-L-L-Y (মূল শব্দ 'Awful'-এর সাথে 'ly' যুক্ত হয়ে দ্বৈত 'l' তৈরি করে)।",
+    "lev": 0.4
+  },
+  {
+    "id": 61,
+    "q": "What is the most precise MEANING of the word 'Whoop'?",
+    "opt": [
+      "হর্ষধ্বনি",
+      "চিৎকার",
+      "আহ্বান",
+      "হুঙ্কার"
+    ],
+    "ans": "হর্ষধ্বনি",
+    "exp": "Whoop মানে মূলত উৎসাহ, উল্লাস বা আনন্দের সাথে উচ্চস্বরে চিৎকার বা উল্লাসধ্বনি করা (Shout of joy or excitement)।",
+    "lev": 0.5
+  },
+  {
+    "id": 62,
+    "q": "Choose the most appropriate SYNONYM for 'Whoop':",
+    "opt": [
+      "Shout",
+      "Scream",
+      "Exultation",
+      "Bellow"
+    ],
+    "ans": "Exultation",
+    "exp": "Whoop (আনন্দধ্বনি/উল্লাস)-এর নিখুঁত সমার্থক শব্দ হলো Exultation (উচ্ছ্বাস বা পরম আনন্দ প্রকাশ)। সাধারণ Scream বা Bellow-তে আনন্দের ভাব থাকে না।",
+    "lev": 0.8
+  },
+  {
+    "id": 63,
+    "q": "Choose the correct ANTONYM for 'Whoop':",
+    "opt": [
+      "Lament",
+      "Whimper",
+      "Mutter",
+      "Silence"
+    ],
+    "ans": "Whimper",
+    "exp": "Whoop (উচ্চস্বরে আনন্দের চিৎকার)-এর বিপরীত হলো Whimper (কাতর বা নিচু স্বরে হাউমাউ করে কাঁদা বা গোঙানো)।",
+    "lev": 0.9
+  },
+  {
+    "id": 64,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Whoop",
+      "Woop",
+      "Whoope",
+      "Hwhoop"
+    ],
+    "ans": "Whoop",
+    "exp": "সঠিক বানান W-H-O-O-P (প্রথমে 'Wh-' থাকবে)।",
+    "lev": 0.4
+  },
+  {
+    "id": 65,
+    "q": "What is the most precise MEANING of the word 'Abrupt' in formal contexts?",
+    "opt": [
+      "আকস্মিক",
+      "অপ্রত্যাশিত",
+      "রুক্ষ",
+      "দ্রুত"
+    ],
+    "ans": "আকস্মিক",
+    "exp": "Abrupt মানে কোনো পূর্বপ্রস্তুতি বা সতর্কবার্তা ছাড়াই হঠাৎ ঘটে যাওয়া ঘটনা (Sudden and unexpected)। এছাড়া আচরণে রুক্ষতা বোঝাতেও এটি ব্যবহৃত হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 66,
+    "q": "Choose the most appropriate SYNONYM for 'Abrupt':",
+    "opt": [
+      "Precipitous",
+      "Rapid",
+      "Spontaneous",
+      "Impulsive"
+    ],
+    "ans": "Precipitous",
+    "exp": "Abrupt (আকস্মিক/খাড়া)-এর সবচেয়ে নিখুঁত ও এডভান্সড সমার্থক শব্দ Precipitous (আকস্মিক বা খাড়া)। Spontaneous মানে স্বতঃস্ফূর্ত।",
+    "lev": 0.8
+  },
+  {
+    "id": 67,
+    "q": "Choose the correct ANTONYM for 'Abrupt':",
+    "opt": [
+      "Gradual",
+      "Smooth",
+      "Expected",
+      "Continuous"
+    ],
+    "ans": "Gradual",
+    "exp": "Abrupt (আকস্মিক/হঠাৎ)-এর সরাসরি বিপরীত হলো Gradual (ধীরে ধীরে বা ক্রমান্বয়ে ঘটে যাওয়া)।",
+    "lev": 0.7
+  },
+  {
+    "id": 68,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Abrupt",
+      "Abruptt",
+      "Erupt",
+      "Abbropt"
+    ],
+    "ans": "Abrupt",
+    "exp": "সঠিক বানান A-B-R-U-P-T (শেষে একটি 't' হবে)।",
+    "lev": 0.3
+  },
+  {
+    "id": 69,
+    "q": "What is the most precise MEANING of the word 'Burrow'?",
+    "opt": [
+      "গর্ত",
+      "গুহা",
+      "ফাটল",
+      "সুরঙ্গ"
+    ],
+    "ans": "গর্ত",
+    "exp": "Burrow মানে প্রাণী দ্বারা বাসস্থান বা আশ্রয়ের জন্য মাটিতে খোঁড়া গর্ত বা গহ্বর (Tunnel or hole dug by an animal)।",
+    "lev": 0.5
+  },
+  {
+    "id": 70,
+    "q": "Choose the most appropriate SYNONYM for 'Burrow':",
+    "opt": [
+      "Tunnel",
+      "Den",
+      "Cavity",
+      "Trench"
+    ],
+    "ans": "Tunnel",
+    "exp": "Burrow-এর সবচেয়ে নিখুঁত সমার্থক শব্দ হলো Tunnel (মাটির ভেতরের সুরঙ্গপথ বা গর্ত)। Den মানে পশুর আস্তানা, যা মাটির ওপরেও হতে পারে।",
+    "lev": 0.8
+  },
+  {
+    "id": 71,
+    "q": "Choose the correct ANTONYM for 'Burrow' (when used as a verb):",
+    "opt": [
+      "Exhume",
+      "Uncover",
+      "Expose",
+      "Erect"
+    ],
+    "ans": "Exhume",
+    "exp": "Burrow (মাটি খুঁড়ে ভেতরে ঢোকা/লুকানো)-এর সবচেয়ে নিখুঁত বিপরীত শব্দ হলো Exhume (মাটি খুঁড়ে বাইরে বের করে আনা)। Expose মানে উন্মুক্ত করা।",
+    "lev": 1.0
+  },
+  {
+    "id": 72,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Burrow",
+      "Barrow",
+      "Burow",
+      "Barrowe"
+    ],
+    "ans": "Burrow",
+    "exp": "সঠিক বানান B-U-R-R-O-W (দুটি 'r' থাকবে)। Barrow মানে হস্তচালিত ঠেলাগাড়ি বা প্রাচীন সমাধিসূূপ।",
+    "lev": 0.4
+  },
+  {
+    "id": 73,
+    "q": "What is the most precise MEANING of the word 'Volunteerism'?",
+    "opt": [
+      "স্বেচ্ছাসেবকৃতি",
+      "পার্থিব সেবা",
+      "দাতব্য কাজ",
+      "বিনামূল্যে শ্রম"
+    ],
+    "ans": "স্বেচ্ছাসেবকৃতি",
+    "exp": "Volunteerism বলতে বোঝায় সামাজিক বা মানবকল্যাণমূলক কাজে কোনো আর্থিক বিনিময় ছাড়া স্বেচ্ছায় অংশ নেওয়ার নীতি বা চর্চা (স্বেচ্ছাসেবকৃতি)।",
+    "lev": 0.5
+  },
+  {
+    "id": 74,
+    "q": "Choose the most appropriate SYNONYM for 'Volunteerism':",
+    "opt": [
+      "Altruism",
+      "Philanthropy",
+      "Charity",
+      "Benevolence"
+    ],
+    "ans": "Altruism",
+    "exp": "Volunteerism-এর মানসিক ও দর্শনের দিক থেকে সবচেয়ে নিকটতম এডভান্সড সমার্থক শব্দ হলো Altruism (পরোপকারিতা/পার্থিব স্বার্থহীনতা)। Philanthropy মূলত অর্থ বা সম্পদ দিয়ে সাহায্য করা বোঝায়।",
+    "lev": 0.9
+  },
+  {
+    "id": 75,
+    "q": "Choose the correct ANTONYM for 'Volunteerism':",
+    "opt": [
+      "Mercenarism",
+      "Selfishness",
+      "Compulsion",
+      "Egoism"
+    ],
+    "ans": "Mercenarism",
+    "exp": "Volunteerism (স্বেচ্ছায় বিনিময়হীন সেবা)-এর সরাসরি বিপরীত ধারণা হলো Mercenarism (কেবল মাত্র আর্থিক বা নিজস্ব স্বার্থের বিনিময়ে কাজ করা)।",
+    "lev": 1.0
+  },
+  {
+    "id": 76,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Volunteerism",
+      "Voluntirism",
+      "Volonteerism",
+      "Voluntearism"
+    ],
+    "ans": "Volunteerism",
+    "exp": "সঠিক বানান V-O-L-U-N-T-E-E-R-I-S-M (মাঝখানে দ্বৈত 'e' ব্যবহৃত হয়)।",
+    "lev": 0.4
+  },
+  {
+    "id": 77,
+    "q": "What is the most precise MEANING of the word 'Serenely'?",
+    "opt": [
+      "প্রশান্তভাবে",
+      "ধীরে ধীরে",
+      "গম্ভীরভাবে",
+      "নীরবে"
+    ],
+    "ans": "প্রশান্তভাবে",
+    "exp": "Serenely মানে কোনো প্রকার উদ্বেগ, অস্থিরতা বা উত্তেজনা ছাড়াই অত্যন্ত শান্ত ও প্রশান্তচিত্তে (In a calm, peaceful, and untroubled manner)।",
+    "lev": 0.5
+  },
+  {
+    "id": 78,
+    "q": "Choose the most appropriate SYNONYM for 'Serenely':",
+    "opt": [
+      "Placidly",
+      "Quietly",
+      "Solemnly",
+      "Gently"
+    ],
+    "ans": "Placidly",
+    "exp": "Serenely-এর সবচেয়ে নিখুঁত ও এডভান্সড সমার্থক শব্দ হলো Placidly (প্রশান্তভাবে)। Quietly কেবল শব্দহীনতা বোঝায়, কিন্তু মানসিক প্রশান্তি বোঝায় না।",
+    "lev": 0.8
+  },
+  {
+    "id": 79,
+    "q": "Choose the correct ANTONYM for 'Serenely':",
+    "opt": [
+      "Turbulently",
+      "Agitatedly",
+      "Anxiously",
+      "Restlessly"
+    ],
+    "ans": "Turbulently",
+    "exp": "Serenely (প্রশান্তভাবে/স্থিরভাবে)-এর সবচেয়ে শক্তিশালী মূল বিপরীত হলো Turbulently (বিক্ষুব্ধ বা বিশৃঙ্খলাপূর্ণভাবে)। Agitatedly মানসিক অস্থিরতা নির্দেশ করে।",
+    "lev": 0.9
+  },
+  {
+    "id": 80,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Serenely",
+      "Serainly",
+      "Serenly",
+      "Sereanly"
+    ],
+    "ans": "Serenely",
+    "exp": "সঠিক বানান S-E-R-E-N-E-L-Y (মূল শব্দ 'Serene'-এর শেষে সরাসরি 'ly' যুক্ত হয়)।",
+    "lev": 0.4
+  },
+  {
+    "id": 81,
+    "q": "What is the most precise MEANING of the word 'Eloquent' in formal contexts?",
+    "opt": [
+      "বাকপটু",
+      "বক্তা",
+      "স্পষ্টভাষী",
+      "বাচাল"
+    ],
+    "ans": "বাকপটু",
+    "exp": "Eloquent বলতে এমন কাউকে বা এমন ভাষাকে বোঝায় যা অত্যন্ত সুন্দর, সাবলীল এবং প্রভাবশালীভাবে মনোভাব প্রকাশ করতে পারে (Fluent, persuasive, and expressive in speaking or writing)।",
+    "lev": 0.5
+  },
+  {
+    "id": 82,
+    "q": "Choose the most appropriate SYNONYM for 'Eloquent':",
+    "opt": [
+      "Articulate",
+      "Garrulous",
+      "Loquacious",
+      "Vocal"
+    ],
+    "ans": "Articulate",
+    "exp": "Eloquent-এর সবচেয়ে নিখুঁত সমার্থক শব্দ হলো Articulate (স্পষ্ট ও সুন্দরভাবে ভাব প্রকাশে সক্ষম)। Garrulous এবং Loquacious মানে বাচাল বা অপ্রয়োজনে বেশি কথা বলা।",
+    "lev": 0.8
+  },
+  {
+    "id": 83,
+    "q": "Choose the correct ANTONYM for 'Eloquent':",
+    "opt": [
+      "Inarticulate",
+      "Reticent",
+      "Taciturn",
+      "Hesitant"
+    ],
+    "ans": "Inarticulate",
+    "exp": "Eloquent (বাকপটু/প্রভাবশালী বক্তা)-এর সরাসরি বিপরীত হলো Inarticulate (স্পষ্টভাবে মনের ভাব প্রকাশে অক্ষম)। Reticent বা Taciturn মানে স্বল্পভাষী।",
+    "lev": 0.9
+  },
+  {
+    "id": 84,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Eloquent",
+      "Eloquante",
+      "Elloquent",
+      "Eloquaint"
+    ],
+    "ans": "Eloquent",
+    "exp": "সঠিক বানান E-L-O-Q-U-E-N-T (শেষে '-ent' হবে, একটিই 'l' থাকবে)।",
+    "lev": 0.4
+  },
+  {
+    "id": 85,
+    "q": "What is the most precise MEANING of the word 'Appealing' in general contexts?",
+    "opt": [
+      "চিত্তাকর্ষক",
+      "সুন্দর",
+      "মনোমুগ্ধকর",
+      "আবেদনময়"
+    ],
+    "ans": "চিত্তাকর্ষক",
+    "exp": "Appealing বলতে যা সহজে মন বা দৃষ্টি আকর্ষণ করে তা বোঝায় (Attractive or inviting)। আইনগত দিক থেকে এটি আপিল বা আবেদনের সাথে সম্পর্কিত।",
+    "lev": 0.5
+  },
+  {
+    "id": 86,
+    "q": "Choose the most appropriate SYNONYM for 'Appealing':",
+    "opt": [
+      "Alluring",
+      "Charming",
+      "Engaging",
+      "Captivating"
+    ],
+    "ans": "Alluring",
+    "exp": "Appealing-এর সবচেয়ে নিখুঁত ও এডভান্সড সমার্থক শব্দ হলো Alluring (লোভনীয় বা প্রচণ্ড প্রলুব্ধকর আকর্ষণসম্পন্ন)। Charming কেবল সুন্দর স্বভাব নির্দেশ করে।",
+    "lev": 0.8
+  },
+  {
+    "id": 87,
+    "q": "Choose the correct ANTONYM for 'Appealing':",
+    "opt": [
+      "Repulsive",
+      "Offensive",
+      "Unpleasant",
+      "Dull"
+    ],
+    "ans": "Repulsive",
+    "exp": "Appealing (চিত্তাকর্ষক/আকর্ষণীয়)-এর সরাসরি বিপরীত হলো Repulsive (বিকর্ষক বা তীব্র বিতৃষ্ণাদায়ক)।",
+    "lev": 0.9
+  },
+  {
+    "id": 88,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Appealing",
+      "Appeling",
+      "Apealing",
+      "Appeallng"
+    ],
+    "ans": "Appealing",
+    "exp": "সঠিক বানান A-P-P-E-A-L-I-N-G (দুটি 'p' এবং মাঝখানে 'ea' থাকবে)।",
+    "lev": 0.4
+  },
+  {
+    "id": 89,
+    "q": "What is the most precise MEANING of the word 'Manifestation' in formal contexts?",
+    "opt": [
+      "বহিঃপ্রকাশ",
+      "প্রমাণ",
+      "সূচনা",
+      "উপস্থিতি"
+    ],
+    "ans": "বহিঃপ্রকাশ",
+    "exp": "Manifestation মানে কোনো অদৃশ্য ভাব, তত্ত্ব বা লক্ষণের দৃশ্যমান বা স্পষ্ট প্রকাশ/রূপ লাভ করা (An event, action, or object that clearly shows or embodies something)।",
+    "lev": 0.5
+  },
+  {
+    "id": 90,
+    "q": "Choose the most appropriate SYNONYM for 'Manifestation':",
+    "opt": [
+      "Emanation",
+      "Embodiment",
+      "Indication",
+      "Induction"
+    ],
+    "ans": "Embodiment",
+    "exp": "Manifestation-এর সবচেয়ে নিখুঁত সমার্থক শব্দ Embodiment (বাস্তব বা মূর্ত রূপ লাভ করা)। Emanation মানে নির্গমন।",
+    "lev": 0.9
+  },
+  {
+    "id": 91,
+    "q": "Choose the correct ANTONYM for 'Manifestation':",
+    "opt": [
+      "Concealment",
+      "Suppression",
+      "Obscurity",
+      "Absence"
+    ],
+    "ans": "Concealment",
+    "exp": "Manifestation (স্পষ্ট বিকাশ বা প্রকাশ)-এর সরাসরি বিপরীত হলো Concealment (গোপন বা অপ্রকাশিত রাখা)।",
+    "lev": 0.8
+  },
+  {
+    "id": 92,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Manifestation",
+      "Mannifestation",
+      "Manifestetion",
+      "Manefestation"
+    ],
+    "ans": "Manifestation",
+    "exp": "সঠিক বানান M-A-N-I-F-E-S-T-A-T-I-O-N (একটিই 'n' থাকবে এবং মাঝখানে '-festa-' হবে)।",
+    "lev": 0.4
+  },
+  {
+    "id": 93,
+    "q": "What is the most precise MEANING of the word 'Emotive' in formal contexts?",
+    "opt": [
+      "আবেগ উদ্দীপক",
+      "আবেগপ্রবণ",
+      "সংবেদনশীল",
+      "উত্তেজনাপূর্ণ"
+    ],
+    "ans": "আবেগ উদ্দীপক",
+    "exp": "Emotive মানে এমন কিছু (যেমন: কথা, ইস্যু বা ঘটনা) যা অন্যের মনে তীব্র আবেগ বা অনুভূতি জাগিয়ে তোলে (Arousing or able to arouse intense emotion)।",
+    "lev": 0.5
+  },
+  {
+    "id": 94,
+    "q": "Choose the most appropriate SYNONYM for 'Emotive':",
+    "opt": [
+      "Evocative",
+      "Emotional",
+      "Passionate",
+      "Sentiment"
+    ],
+    "ans": "Evocative",
+    "exp": "Emotive-এর সবচেয়ে নিখুঁত সমার্থক শব্দ Evocative (স্মৃতি বা তীব্র অনুভূতি জাগিয়ে তোলে এমন)। Emotional মানুষ বা আচরণের অনুভূতি বোঝায়, কিন্তু Emotive মূলত বস্তুর অনুভূতি জাগানোর ক্ষমতা বোঝায়।",
+    "lev": 0.9
+  },
+  {
+    "id": 95,
+    "q": "Choose the correct ANTONYM for 'Emotive':",
+    "opt": [
+      "Unemotional",
+      "Impersonal",
+      "Neutral",
+      "Detached"
+    ],
+    "ans": "Impersonal",
+    "exp": "Emotive (আবেগ উদ্দীপক)-এর সরাসরি বিপরীত হলো Impersonal (ব্যক্তিগত আবেগ বা অনুভূতিহীন)। Neutral মানে নিরপেক্ষ।",
+    "lev": 0.9
+  },
+  {
+    "id": 96,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Emotive",
+      "Emmotive",
+      "Emotif",
+      "Eamotive"
+    ],
+    "ans": "Emotive",
+    "exp": "সঠিক বানান E-M-O-T-I-V-E (একটিই 'm' থাকবে)।",
+    "lev": 0.3
+  },
+  {
+    "id": 97,
+    "q": "What is the most precise MEANING of the word 'Preach'?",
+    "opt": [
+      "ধর্মপ্রচার করা",
+      "বক্তৃতা দেওয়া",
+      "পরামর্শ দেওয়া",
+      "অনুরোধ করা"
+    ],
+    "ans": "ধর্মপ্রচার করা",
+    "exp": "Preach মানে মূলত ধর্মীয় উপদেশ বা নীতিবাক্য প্রচার করা (Deliver a sermon)। সাধারণ অর্থে নীতিকথা বা উপদেশ দেওয়াকেও Preach বলা হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 98,
+    "q": "Choose the most appropriate SYNONYM for 'Preach':",
+    "opt": [
+      "Sermonize",
+      "Advise",
+      "Proclaim",
+      "Lecture"
+    ],
+    "ans": "Sermonize",
+    "exp": "Preach-এর সবচেয়ে নিখুঁত সমার্থক শব্দ Sermonize (ধর্মীয় বা নৈতিক উপদেশ প্রদান করা)। Proclaim মানে ঘোষণা করা, যা ধর্মীয় উপদেশের সাথে সরাসরি সম্পর্কিত নয়।",
+    "lev": 0.8
+  },
+  {
+    "id": 99,
+    "q": "Choose the correct ANTONYM for 'Preach' (in terms of giving advice):",
+    "opt": [
+      "Dissuade",
+      "Practice",
+      "Listen",
+      "Conceal"
+    ],
+    "ans": "Practice",
+    "exp": "একটি বিখ্যাত ইংরেজি প্রবাদ আছে — 'Practice what you preach'। অর্থাৎ কেবল মুখে নীতিবাক্য বা উপদেশ প্রচার (Preach) করার বিপরীত হলো নিজে তা কাজে পরিণত করা (Practice)।",
+    "lev": 0.9
+  },
+  {
+    "id": 100,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Preach",
+      "Preech",
+      "Preatch",
+      "Prach"
+    ],
+    "ans": "Preach",
+    "exp": "সঠিক বানান P-R-E-A-C-H (মাঝখানে 'ea' ব্যবহৃত হয়)।",
+    "lev": 0.3
+  },
+  {
+    "id": 101,
+    "q": "What is the most precise MEANING of the word 'Monastery'?",
+    "opt": [
+      "মঠ",
+      "মন্দির",
+      "আশ্রম",
+      "গির্জা"
+    ],
+    "ans": "মঠ",
+    "exp": "Monastery মানে কোনো বিশেষ ধর্মীয় সম্প্রদায়ের (যেমন: বৌদ্ধ বা খ্রিস্টান) সন্ন্যাসীদের বসবাসের স্থান বা মঠ (A building occupied by a community of monks)।",
+    "lev": 0.5
+  },
+  {
+    "id": 102,
+    "q": "Choose the most appropriate SYNONYM for 'Monastery':",
+    "opt": [
+      "Abbey",
+      "Sanctuary",
+      "Hermitage",
+      "Convent"
+    ],
+    "ans": "Abbey",
+    "exp": "Monastery-এর সবচেয়ে বড় ও উপযুক্ত সমার্থক শব্দ হলো Abbey (মঠ)। Convent মূলত সন্ন্যাসিনীদের (Nuns) থাকার স্থান নির্দেশ করে।",
+    "lev": 0.8
+  },
+  {
+    "id": 103,
+    "q": "Choose the correct ANTONYM for 'Monastery' (in terms of lifestyle context):",
+    "opt": [
+      "Secular dwelling",
+      "Metropolis",
+      "Marketplace",
+      "Public house"
+    ],
+    "ans": "Secular dwelling",
+    "exp": "Monastery (ধর্মীয় ও নির্জন মঠ)-এর বিপরীত জীবনযাত্রার পরিবেশ হলো Secular dwelling (ধর্মনিরপেক্ষ বা সাধারণ জাগতিক গৃহ)।",
+    "lev": 0.9
+  },
+  {
+    "id": 104,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Monastery",
+      "Moastery",
+      "Monastary",
+      "Monnestery"
+    ],
+    "ans": "Monastery",
+    "exp": "সঠিক বানান M-O-N-A-S-T-E-R-Y (মাঝখানে 'n' থাকবে এবং শেষে '-ery' হবে, '-ary' নয়)।",
+    "lev": 0.4
+  },
+  {
+    "id": 105,
+    "q": "What is the most precise MEANING of the word 'Weary'?",
+    "opt": [
+      "শ্রান্ত",
+      "অসুস্থ",
+      "উদ্বিগ্ন",
+      "বিষাদগ্রস্ত"
+    ],
+    "ans": "শ্রান্ত",
+    "exp": "Weary মানে অতিরিক্ত পরিশ্রম, ধকল বা ধৈর্যের সীমার কারণে শারীরিক বা মানসিকভাবে ভীষণ শ্রান্ত বা ক্লান্ত হয়ে পড়া (Feeling or showing extreme tiredness)।",
+    "lev": 0.5
+  },
+  {
+    "id": 106,
+    "q": "Choose the most appropriate SYNONYM for 'Weary':",
+    "opt": [
+      "Enervated",
+      "Lethargic",
+      "Drowsy",
+      "Apathetic"
+    ],
+    "ans": "Enervated",
+    "exp": "Weary-এর সবচেয়ে এডভান্সড ও নির্ভুল সমার্থক শব্দ হলো Enervated (শক্তি বা উদ্দীপনা হারিয়ে ফেলা/শ্রান্ত)। Lethargic মানে অলস, Drowsy মানে ঘুম ঘুম ভাব।",
+    "lev": 0.9
+  },
+  {
+    "id": 107,
+    "q": "Choose the correct ANTONYM for 'Weary':",
+    "opt": [
+      "Invigorated",
+      "Active",
+      "Energetic",
+      "Cheerful"
+    ],
+    "ans": "Invigorated",
+    "exp": "Weary (শ্রান্ত/ক্লান্ত)-এর সবচেয়ে শক্তিশালী সরাসরি বিপরীত শব্দ হলো Invigorated (পুনরুজ্জীবিত বা নবউদ্যমে চাঙ্গা করা)। Energetic সাধারণ কর্মচঞ্চল ভাব নির্দেশ করে।",
+    "lev": 0.9
+  },
+  {
+    "id": 108,
+    "q": "Which preposition usually follows 'Weary' when it means 'bored or impatient with something'?",
+    "opt": [
+      "of",
+      "from",
+      "with",
+      "at"
+    ],
+    "ans": "of",
+    "exp": "কোনো কিছুতে অতিষ্ঠ বা বিরক্ত হয়ে ওঠা বোঝাতে Weary-এর পর Appropriate Preposition হিসেবে 'of' বসে (e.g., 'He grew weary of their endless complaints')।",
+    "lev": 0.6
+  },
+  {
+    "id": 109,
+    "q": "What is the most precise MEANING of the word 'Expressionism'?",
+    "opt": [
+      "অভিব্যক্তিবাদ",
+      "বাস্তববাদ",
+      "প্রতীচ্যবাদ",
+      "ভাববাদ"
+    ],
+    "ans": "অভিব্যক্তিবাদ",
+    "exp": "Expressionism হলো একটি আধুনিক শিল্প ও সাহিত্য আন্দোলন, যেখানে বাহ্যিক বিশ্বকে হুবহু না দেখিয়ে শিল্পীর ভেতরের আবেগ, তীব্র অনুভূতি ও মানসিক অবস্থাকে প্রাধান্য দেওয়া হয় (অভিব্যক্তিবাদ)।",
+    "lev": 0.5
+  },
+  {
+    "id": 110,
+    "q": "Which artistic movement directly OPPOSES 'Expressionism' in terms of objective reality representation?",
+    "opt": [
+      "Realism",
+      "Surrealism",
+      "Impressionism",
+      "Romanticism"
+    ],
+    "ans": "Realism",
+    "exp": "Realism (বাস্তববাদ) বস্তুগত জগৎকে অবিকল বস্তুনিষ্ঠভাবে চিত্রিত করে। কিন্তু Expressionism বাস্তবতাকে মনের আবেগের খাতিরে বিকৃত করে ফুটিয়ে তোলে, তাই এটি Realism-এর বৈপরীত্য প্রকাশ করে।",
+    "lev": 0.8
+  },
+  {
+    "id": 111,
+    "q": "Choose the correct ANTONYM for 'Expressionism' in an aesthetic context:",
+    "opt": [
+      "Naturalism",
+      "Subjectivism",
+      "Modernism",
+      "Abstraction"
+    ],
+    "ans": "Naturalism",
+    "exp": "Expressionism (আবেগভিত্তিক ও বিকৃত প্রকাশ)-এর বিপরীত ধারণাগত শব্দ হলো Naturalism (প্রকৃতি বা বাস্তবতাকে কোনো পরিবর্তন ছাড়া হুবহু তুলে ধরা)।",
+    "lev": 0.9
+  },
+  {
+    "id": 112,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Expressionism",
+      "Expresionism",
+      "Expressonisim",
+      "Ekspressionism"
+    ],
+    "ans": "Expressionism",
+    "exp": "সঠিক বানান E-X-P-R-E-S-S-I-O-N-I-S-M (মাঝখানে 'ss' থাকবে)।",
+    "lev": 0.4
+  },
+  {
+    "id": 113,
+    "q": "What is the most precise MEANING of the word 'Adequate' in formal contexts?",
+    "opt": [
+      "পর্যাপ্ত",
+      "প্রচুর",
+      "উৎকৃষ্ট",
+      "সম্পূর্ণ"
+    ],
+    "ans": "পর্যাপ্ত",
+    "exp": "Adequate বলতে বোঝায় কোনো নির্দিষ্ট কাজের প্রয়োজনে যা 'যথেষ্ট' বা 'পর্যাপ্ত' (Sufficient for a specific requirement)। এটি দিয়ে খুব বেশি প্রাচুর্য বোঝায় না, বরং প্রয়োজনের উপযোগী বোঝায়।",
+    "lev": 0.5
+  },
+  {
+    "id": 114,
+    "q": "Choose the most appropriate SYNONYM for 'Adequate':",
+    "opt": [
+      "Sufficient",
+      "Abundant",
+      "Profuse",
+      "Ample"
+    ],
+    "ans": "Sufficient",
+    "exp": "Adequate-এর সবচেয়ে নিখুঁত সমার্থক শব্দ হলো Sufficient (পর্যাপ্ত/যথেষ্ট)। Abundant বা Profuse বলতে প্রয়োজনের চেয়ে অনেক বেশি বা প্রাচুর্য বোঝায়।",
+    "lev": 0.8
+  },
+  {
+    "id": 115,
+    "q": "Choose the correct ANTONYM for 'Adequate':",
+    "opt": [
+      "Inadequate",
+      "Meager",
+      "Scant",
+      "Deficient"
+    ],
+    "ans": "Inadequate",
+    "exp": "Adequate (পর্যাপ্ত)-এর সরাসরি বিপরীত হলো Inadequate (অপর্যাপ্ত)। Scant বা Meager অপশনে থাকলেও Prefixed Antonym হিসেবে Inadequate-ই সবচেয়ে সঠিক।",
+    "lev": 0.7
+  },
+  {
+    "id": 116,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Adequate",
+      "Adecuate",
+      "Adiquate",
+      "Adequatt"
+    ],
+    "ans": "Adequate",
+    "exp": "সঠিক বানান A-D-E-Q-U-A-T-E (মাঝখানে 'q-u-a' ব্যবহৃত হয়, 'c' নয়)।",
+    "lev": 0.4
+  },
+  {
+    "id": 117,
+    "q": "What is the most precise MEANING of the word 'Inaugurated'?",
+    "opt": [
+      "উদ্বোধন করা হয়েছিল",
+      "শুরু করা হয়েছিল",
+      "প্রতিষ্ঠা করা হয়েছিল",
+      "ঘোষণা করা হয়েছিল"
+    ],
+    "ans": "উদ্বোধন করা হয়েছিল",
+    "exp": "Inaugurated বলতে কোনো স্থাপনা, অনুষ্ঠান বা পদের আনুষ্ঠানিকভাবে শুভ সূচনা বা উদ্বোধন করাকে বোঝায় (Formally introduced, opened, or initiated)।",
+    "lev": 0.5
+  },
+  {
+    "id": 118,
+    "q": "Choose the most appropriate SYNONYM for 'Inaugurated':",
+    "opt": [
+      "Instituted",
+      "Commenced",
+      "Launched",
+      "Originated"
+    ],
+    "ans": "Instituted",
+    "exp": "Inaugurated (আনুষ্ঠানিক উদ্বোধন/প্রতিষ্ঠা)-এর সবচেয়ে নিখুঁত ও ফরমাল সমার্থক শব্দ হলো Instituted (আনুষ্ঠানিকভাবে প্রবর্তন বা শুরু করা)। Launched কোনো প্রকল্প বা পণ্য বাজারে ছাড়ার ক্ষেত্রে বেশি প্রযোজ্য।",
+    "lev": 0.9
+  },
+  {
+    "id": 119,
+    "q": "Choose the correct ANTONYM for 'Inaugurated':",
+    "opt": [
+      "Terminated",
+      "Concluded",
+      "Abolished",
+      "Ceased"
+    ],
+    "ans": "Terminated",
+    "exp": "Inaugurated (আনুষ্ঠানিক শুভ সূচনা/উদ্বোধন)-এর সরাসরি বিপরীত হলো Terminated (আনুষ্ঠানিকভাবে সমাপ্ত বা শেষ করা)।",
+    "lev": 0.8
+  },
+  {
+    "id": 120,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Inaugurated",
+      "Inagurated",
+      "Inaugurateed",
+      "Enaugurated"
+    ],
+    "ans": "Inaugurated",
+    "exp": "সঠিক বানান I-N-A-U-G-U-R-A-T-E-D (মাঝখানে 'au' এবং পরে 'gu' থাকবে)।",
+    "lev": 0.4
+  },
+  {
+    "id": 121,
+    "q": "What is the most precise MEANING of the word 'Exhibition' in formal contexts?",
+    "opt": [
+      "প্রদর্শনী",
+      "উৎসব",
+      "মেলা",
+      "সমাবেশ"
+    ],
+    "ans": "প্রদর্শনী",
+    "exp": "Exhibition বলতে বোঝায় জনসমক্ষে কোনো শিল্পকর্ম, জিনিসপত্র বা দক্ষতা প্রদর্শনের অনুষ্ঠান বা আয়োজন (A public display of works of art or items of interest)।",
+    "lev": 0.5
+  },
+  {
+    "id": 122,
+    "q": "Choose the most appropriate SYNONYM for 'Exhibition':",
+    "opt": [
+      "Exposition",
+      "Manifestation",
+      "Spectacle",
+      "Presentation"
+    ],
+    "ans": "Exposition",
+    "exp": "Exhibition-এর সবচেয়ে নিখুঁত ও ফরমাল সমার্থক শব্দ হলো Exposition (ব্যাপক পরিসরে বাণিজ্যিক বা শিল্প প্রদর্শনী, সংক্ষেপে Expo)। Spectacle মানে দৃষ্টিনন্দন দৃশ্য।",
+    "lev": 0.8
+  },
+  {
+    "id": 123,
+    "q": "Choose the correct ANTONYM for 'Exhibition':",
+    "opt": [
+      "Concealment",
+      "Cover-up",
+      "Seclusion",
+      "Disguise"
+    ],
+    "ans": "Concealment",
+    "exp": "Exhibition (প্রকাশ্যে প্রদর্শন করা/প্রদর্শনী)-এর সরাসরি বিপরীত শব্দ হলো Concealment (লুকিয়ে বা গোপন রাখা)।",
+    "lev": 0.8
+  },
+  {
+    "id": 124,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Exhibition",
+      "Exhibision",
+      "Exabition",
+      "Exhibittion"
+    ],
+    "ans": "Exhibition",
+    "exp": "সঠিক বানান E-X-H-I-B-I-T-I-O-N (মাঝখানে 'h' উচ্চারণে অনুচ্চারিত থাকে, কিন্তু বানানে থাকে)।",
+    "lev": 0.4
+  },
+  {
+    "id": 125,
+    "q": "What is the most precise MEANING of the word 'Intuitive' in general contexts?",
+    "opt": [
+      "সহজাত / স্বজ্ঞাত",
+      "যুক্তিভিত্তিক",
+      "অভিজ্ঞতালব্ধ",
+      "আনুমানিক"
+    ],
+    "ans": "সহজাত / স্বজ্ঞাত",
+    "exp": "Intuitive বলতে বোঝায় কোনো স্পষ্ট যুক্তি বা প্রমাণ ছাড়াই সহজাত অনুভূতি দিয়ে সরাসরি বুঝতে পারার ক্ষমতা (Obtained of or through intuition rather than rational thought)।",
+    "lev": 0.5
+  },
+  {
+    "id": 126,
+    "q": "Choose the most appropriate SYNONYM for 'Intuitive':",
+    "opt": [
+      "Instinctive",
+      "Innate",
+      "Spontaneous",
+      "Perceptive"
+    ],
+    "ans": "Instinctive",
+    "exp": "Intuitive-এর সবচেয়ে নিখুঁত সমার্থক শব্দ হলো Instinctive (সহজাত বা চিন্তা ছাড়াই স্বতঃস্ফূর্ত অনুভূতি)। Innate মানে জন্মগত গুণাবলি।",
+    "lev": 0.8
+  },
+  {
+    "id": 127,
+    "q": "Choose the correct ANTONYM for 'Intuitive':",
+    "opt": [
+      "Analytical",
+      "Calculated",
+      "Reasoned",
+      "Deliberate"
+    ],
+    "ans": "Analytical",
+    "exp": "Intuitive (সহজাত বা যুক্তি ছাড়া বোঝা)-এর সবচেয়ে চমৎকার ও সরাসরি বিপরীত শব্দ হলো Analytical (পুঙ্খানুপুঙ্খ তথ্য ও যুক্তি বিশ্লেষণমূলক)।",
+    "lev": 0.9
+  },
+  {
+    "id": 128,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Intuitive",
+      "Intuitiv",
+      "Intuative",
+      "Intutive"
+    ],
+    "ans": "Intuitive",
+    "exp": "সঠিক বানান I-N-T-U-I-T-I-V-E (মাঝখানে 'ui' ব্যবহৃত হয়)।",
+    "lev": 0.4
+  },
+  {
+    "id": 129,
+    "q": "What is the most precise MEANING of the word 'Abreast'?",
+    "opt": [
+      "পাশাপাশি / সমান্তরালে",
+      "মুখোমুখি",
+      "পিছন পিছনে",
+      "আলাদাভাবে"
+    ],
+    "ans": "পাশাপাশি / সমান্তরালে",
+    "exp": "Abreast মানে হলো পাশাপাশি বা একই লাইনে সমানভাবে থাকা (Side by side and facing the same way)। এছাড়া হালনাগাদ/আপডেট থাকা বোঝাতেও এটি ব্যবহৃত হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 130,
+    "q": "Choose the most appropriate SYNONYM for 'Abreast' (in the context of being up-to-date):",
+    "opt": [
+      "Conversant",
+      "Adjacent",
+      "Parallel",
+      "Aligned"
+    ],
+    "ans": "Conversant",
+    "exp": "যখন 'Keep abreast of something' (তথ্য বা জ্ঞানের সাথে আপডেট থাকা) বোঝায়, তখন এর সবচেয়ে নিখুঁত সমার্থক শব্দ হলো Conversant (কোনো বিষয়ে অভিজ্ঞ বা ভালোভাবে জানা)। সাধারণ অবস্থানের ক্ষেত্রে এটি Parallel/Side-by-side।",
+    "lev": 0.9
+  },
+  {
+    "id": 131,
+    "q": "Which PREPOSITION usually completes the phrase meaning 'to remain updated with news or developments'?",
+    "opt": [
+      "of",
+      "with",
+      "to",
+      "about"
+    ],
+    "ans": "of",
+    "exp": "কোনো বিষয়ের সর্বশেষ তথ্যের সাথে নিজেকে আপডেট রাখা বোঝাতে 'Keep abreast of' ব্যবহৃত হয় (e.g., 'Keep abreast of current affairs')।",
+    "lev": 0.6
+  },
+  {
+    "id": 132,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Abreast",
+      "Abrest",
+      "Abraest",
+      "Abreaste"
+    ],
+    "ans": "Abreast",
+    "exp": "সঠিক বানান A-B-R-E-A-S-T (মাঝখানে 'ea' থাকবে, শুধু 'e' নয়)।",
+    "lev": 0.4
+  },
+  {
+    "id": 133,
+    "q": "What is the most precise MEANING of the word 'Conquered'?",
+    "opt": [
+      "জয়ী বা জয় করা হয়েছিল",
+      "অধিকার করা হয়েছিল",
+      "পরাজিত করা হয়েছিল",
+      "আক্রমণ করা হয়েছিল"
+    ],
+    "ans": "জয়ী বা জয় করা হয়েছিল",
+    "exp": "Conquered মানে হলো শক্তি বা যুদ্ধ প্রয়োগ করে কোনো অঞ্চল বা শত্রুকে নিজের নিয়ন্ত্রণে বা করায়ত্তে আনা (Overcome and take control of a place or people by military force)।",
+    "lev": 0.5
+  },
+  {
+    "id": 134,
+    "q": "Choose the most appropriate SYNONYM for 'Conquered':",
+    "opt": [
+      "Vanquished",
+      "Surrendered",
+      "Acquired",
+      "Invaded"
+    ],
+    "ans": "Vanquished",
+    "exp": "Conquered-এর সবচেয়ে নিখুঁত ও এডভান্সড সমার্থক শব্দ হলো Vanquished (সম্পূর্ণরূপে পরাস্ত করা বা জয় করা)। Invaded মানে আক্রমণ করেছিল, যা কেবল যুদ্ধ শুরুর ধাপ নির্দেশ করে।",
+    "lev": 0.9
+  },
+  {
+    "id": 135,
+    "q": "Choose the correct ANTONYM for 'Conquered':",
+    "opt": [
+      "Capitulated",
+      "Yielded",
+      "Liberated",
+      "Overpowered"
+    ],
+    "ans": "Liberated",
+    "exp": "Conquered (পরাধীন বা জয় করা)-এর সরাসরি বিপরীত শব্দ হলো Liberated (মুক্ত বা স্বাধীন করা)। Capitulated মানে আত্মসমর্পণ করা।",
+    "lev": 0.8
+  },
+  {
+    "id": 136,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Conquered",
+      "Conqured",
+      "Conqueredd",
+      "Cunquered"
+    ],
+    "ans": "Conquered",
+    "exp": "সঠিক বানান C-O-N-Q-U-E-R-E-D (মাঝখানে 'quer' থাকবে)।",
+    "lev": 0.3
+  },
+  {
+    "id": 137,
+    "q": "What is the most precise MEANING of the word 'Antiquity'?",
+    "opt": [
+      "প্রাচীনকাল",
+      "ঐতিহ্য",
+      "স্মৃতিচিহ্ন",
+      "ইतिहास"
+    ],
+    "ans": "প্রাচীনকাল",
+    "exp": "Antiquity বলতে মূলত মধ্যযুগের পূর্ববর্তী সুদূর অতীতের প্রাচীন কালকে বোঝায় (Ancient past)।",
+    "lev": 0.5
+  },
+  {
+    "id": 138,
+    "q": "Choose the most appropriate SYNONYM for 'Antiquity':",
+    "opt": [
+      "Archaism",
+      "Relic",
+      "History",
+      "Heritage"
+    ],
+    "ans": "Archaism",
+    "exp": "Antiquity-এর সবচেয়ে উপযুক্ত ও এডভান্সড সমার্থক শব্দ হলো Archaism (প্রাচীনত্ব বা প্রাচীনকালের ভাব)। Relic মানে প্রাচীনকালের ধ্বংসাবশেষ।",
+    "lev": 0.9
+  },
+  {
+    "id": 139,
+    "q": "Choose the correct ANTONYM for 'Antiquity':",
+    "opt": [
+      "Modernity",
+      "Novelty",
+      "Currency",
+      "Futurism"
+    ],
+    "ans": "Modernity",
+    "exp": "Antiquity (প্রাচীনকাল/প্রাচীনত্ব)-এর সরাসরি বিপরীত শব্দ হলো Modernity (আধুনিকতা)।",
+    "lev": 0.8
+  },
+  {
+    "id": 140,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Antiquity",
+      "Antequity",
+      "Antiquitty",
+      "Antiquety"
+    ],
+    "ans": "Antiquity",
+    "exp": "সঠিক বানান A-N-T-I-Q-U-I-T-Y (মাঝখানে 'ti' এবং 'qui' ব্যবহৃত হয়)।",
+    "lev": 0.3
+  },
+  {
+    "id": 141,
+    "q": "What is the most precise MEANING of the word 'Splendid'?",
+    "opt": [
+      "চমৎকার",
+      "উজ্জ্বল",
+      "বিশাল",
+      "সুন্দর"
+    ],
+    "ans": "চমৎকার",
+    "exp": "Splendid বলতে অত্যন্ত চমৎকার, অসাধারণ বা জাঁকজমকপূর্ণ কোনো কিছুকে বোঝায় (Magnificent or extremely good)।",
+    "lev": 0.5
+  },
+  {
+    "id": 142,
+    "q": "Choose the most appropriate SYNONYM for 'Splendid':",
+    "opt": [
+      "Resplendent",
+      "Pleasant",
+      "Sublime",
+      "Attractive"
+    ],
+    "ans": "Resplendent",
+    "exp": "Splendid-এর সবচেয়ে চমৎকার ও এডভান্সড সমার্থক শব্দ হলো Resplendent (অত্যন্ত বর্ণিল ও জাঁকজমকপূর্ণ)। Pleasant কেবল মার্জিত বা আনন্দদায়ক বোঝায়।",
+    "lev": 0.9
+  },
+  {
+    "id": 143,
+    "q": "Choose the correct ANTONYM for 'Splendid':",
+    "opt": [
+      "Squalid",
+      "Ordinary",
+      "Unimpressive",
+      "Bad"
+    ],
+    "ans": "Squalid",
+    "exp": "Splendid (জাঁকজমকপূর্ণ/চমৎকার)-এর সবচেয়ে শক্তিশালী বিপরীত শব্দ হলো Squalid (নোংরা, জীর্ণ বা জঘন্য)।",
+    "lev": 0.9
+  },
+  {
+    "id": 144,
+    "q": "Which one is the correct SPELLING?",
+    "opt": [
+      "Splendid",
+      "Spplendid",
+      "Splendidness",
+      "Splended"
+    ],
+    "ans": "Splendid",
+    "exp": "সঠিক বানান S-P-L-E-N-D-I-D (শেষে '-did' ব্যবহৃত হয়, '-ded' নয়)।",
+    "lev": 0.3
+  }
+]
