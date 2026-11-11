@@ -1,0 +1,20 @@
+{
+    "name": "Learno Mind",
+    "author": "Motion Mind X",
+    "subject": [
+        {
+            "name": "English",
+            "topic": ["MCQ"],
+            "path": [
+                "subjects/english/mcq.json"
+            ]
+        },
+        {
+            "name": "ICT",
+            "topic": ["MCQ"],
+            "path": [
+                "subjects/ict/chapter-5/mcq.json"
+            ]
+        }
+    ]
+}
