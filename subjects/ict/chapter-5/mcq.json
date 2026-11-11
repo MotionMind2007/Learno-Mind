@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "q": "WWW-এর full meaning কী?",
+    "opt": ["World Wide Web", "World Web Window", "Wide World Website", "Web World Wide"],
+    "ans": "World Wide Web",
+    "exp": "WWW-এর পূর্ণরূপ World Wide Web। এটি ইন্টারনেটের মাধ্যমে সংযুক্ত ওয়েবপেজ ও অন্যান্য ওয়েব রিসোর্সের সমষ্টি।",
+    "lev": 0.5
+  },
+  {
+    "id": 2,
+    "q": "HTML-এর primary purpose কী?",
+    "opt": ["Database management", "Structuring web content", "Server-side programming", "Network security"],
+    "ans": "Structuring web content",
+    "exp": "HTML-এর পূর্ণরূপ HyperText Markup Language। এটি ওয়েবপেজের content ও structure নির্ধারণ করে।",
+    "lev": 0.5
+  },
+  {
+    "id": 3,
+    "q": "নিচের কোনটি programming language নয়?",
+    "opt": ["Python", "JavaScript", "HTML", "C++"],
+    "ans": "HTML",
+    "exp": "HTML একটি Markup Language, Programming Language নয়। এটি নির্দেশ করে ওয়েবপেজের কোন অংশটি heading, paragraph, image ইত্যাদি।",
+    "lev": 0.5
+  },
+  {
+    "id": 4,
+    "q": "Related web pages-এর একটি collection-কে কী বলা হয়?",
+    "opt": ["Web browser", "Website", "Search engine", "Web server"],
+    "ans": "Website",
+    "exp": "একই Domain-এর অধীনে সম্পর্কিত একাধিক Web Page-এর সমষ্টিকে Website বলে।",
+    "lev": 0.5
+  },
+  {
+    "id": 5,
+    "q": "একটি website-এর main page-কে সাধারণত কী বলা হয়?",
+    "opt": ["Landing server", "Home page", "Source page", "Root browser"],
+    "ans": "Home page",
+    "exp": "Home Page হলো একটি Website-এর প্রধান বা প্রাথমিক পৃষ্ঠা, যেখান থেকে অন্যান্য পৃষ্ঠায় প্রবেশ করা যায়।",
+    "lev": 0.5
+  },
+  {
+    "id": 6,
+    "q": "কোন ধরনের website সাধারণত fixed content প্রদর্শন করে?",
+    "opt": ["Dynamic website", "Static website", "Interactive website", "Database-driven website"],
+    "ans": "Static website",
+    "exp": "Static Website-এ সাধারণত পূর্বনির্ধারিত content সরাসরি ব্যবহারকারীর কাছে পাঠানো হয়। Content পরিবর্তন করতে সাধারণত source file পরিবর্তন করতে হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 7,
+    "q": "কোন ধরনের website user interaction বা data-এর উপর ভিত্তি করে different content generate করতে পারে?",
+    "opt": ["Static website", "Dynamic website", "Offline website", "Local HTML file"],
+    "ans": "Dynamic website",
+    "exp": "Dynamic Website-এ user input, database বা server-side processing অনুযায়ী content পরিবর্তিত হতে পারে।",
+    "lev": 0.6
+  },
+  {
+    "id": 8,
+    "q": "Web pages access ও display করার জন্য প্রাথমিকভাবে কোন software ব্যবহার করা হয়?",
+    "opt": ["Compiler", "Web browser", "Database", "Text editor"],
+    "ans": "Web browser",
+    "exp": "Web Browser হলো এমন software যা HTML, CSS ও JavaScript-সহ ওয়েব রিসোর্স process করে ব্যবহারকারীর সামনে প্রদর্শন করে।",
+    "lev": 0.5
+  },
+  {
+    "id": 9,
+    "q": "নিচের কোনটি একটি search engine?",
+    "opt": ["Google", "Firefox", "Chrome", "Apache"],
+    "ans": "Google",
+    "exp": "Google একটি Search Engine। এটি ওয়েবে তথ্য খুঁজে পেতে সাহায্য করে। Firefox ও Chrome হলো Web Browser।",
+    "lev": 0.5
+  },
+  {
+    "id": 10,
+    "q": "URL-এর পূর্ণরূপ কী?",
+    "opt": ["Universal Resource Link", "Uniform Resource Locator", "Unified Reference Location", "Universal Routing Location"],
+    "ans": "Uniform Resource Locator",
+    "exp": "URL-এর পূর্ণরূপ Uniform Resource Locator। এটি ইন্টারনেটে কোনো Resource-এর অবস্থান নির্দেশ করে।",
+    "lev": 0.5
+  },
+  {
+    "id": 11,
+    "q": "Web pages transfer করার জন্য সাধারণত কোন protocol ব্যবহার করা হয়?",
+    "opt": ["FTP", "HTTP", "SMTP", "SSH"],
+    "ans": "HTTP",
+    "exp": "HTTP-এর পূর্ণরূপ HyperText Transfer Protocol। এটি Web Client ও Server-এর মধ্যে ওয়েব রিসোর্স আদান-প্রদানে ব্যবহৃত হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 12,
+    "q": "HTTP-এর secure version-কে কী বলা হয়?",
+    "opt": ["HTML", "HTTPS", "SFTP", "TCP"],
+    "ans": "HTTPS",
+    "exp": "HTTPS-এর পূর্ণরূপ HyperText Transfer Protocol Secure। এটি TLS ব্যবহার করে Client ও Server-এর মধ্যে যোগাযোগ সুরক্ষিত রাখে।",
+    "lev": 0.6
+  },
+  {
+    "id": 13,
+    "q": "DNS-এর primary function কী?",
+    "opt": ["Convert HTML into CSS", "Translate domain names into IP addresses", "Store website images", "Execute JavaScript"],
+    "ans": "Translate domain names into IP addresses",
+    "exp": "DNS-এর পূর্ণরূপ Domain Name System। এটি Domain Name-কে সংশ্লিষ্ট IP Address-এ resolve করতে সাহায্য করে।",
+    "lev": 0.7
+  },
+  {
+    "id": 14,
+    "q": "একটি domain name কী represent করে?",
+    "opt": ["A website's human-readable internet address", "A programming variable", "A database table", "A browser extension"],
+    "ans": "A website's human-readable internet address",
+    "exp": "Domain Name হলো ইন্টারনেটে কোনো Website বা Internet Service শনাক্ত করার সহজে মনে রাখার মতো নাম। যেমন: example.com।",
+    "lev": 0.6
+  },
+  {
+    "id": 15,
+    "q": "Web hosting কী?",
+    "opt": ["Designing a logo", "Storing website files on an internet-connected server", "Writing JavaScript code", "Registering a browser"],
+    "ans": "Storing website files on an internet-connected server",
+    "exp": "Web Hosting হলো Server-এ Website-এর প্রয়োজনীয় File ও Resource সংরক্ষণ এবং ইন্টারনেটের মাধ্যমে সেগুলো Access করার সুবিধা প্রদান।",
+    "lev": 0.6
+  },
+  {
+    "id": 16,
+    "q": "কোন website structure pages-কে parent-child relationships-এ organize করে?",
+    "opt": ["Linear structure", "Hierarchical structure", "Network structure", "Random structure"],
+    "ans": "Hierarchical structure",
+    "exp": "Hierarchical বা Tree Structure-এ পৃষ্ঠাগুলো Parent-Child সম্পর্ক অনুযায়ী সাজানো থাকে। এটি গাছের শাখা-প্রশাখার মতো।",
+    "lev": 0.6
+  },
+  {
+    "id": 17,
+    "q": "কোন website structure users-কে interconnected pages-এর মাধ্যমে navigate করতে দেয়?",
+    "opt": ["Linear structure", "Hierarchical structure", "Network structure", "Single-page structure"],
+    "ans": "Network structure",
+    "exp": "Network বা Web-linked Structure-এ বিভিন্ন পৃষ্ঠা একে অপরের সঙ্গে Hyperlink-এর মাধ্যমে যুক্ত থাকে।",
+    "lev": 0.7
+  },
+  {
+    "id": 18,
+    "q": "কোন website structure pages-এর একটি predetermined sequence অনুসরণ করে?",
+    "opt": ["Network structure", "Linear structure", "Hierarchical structure", "Hybrid structure"],
+    "ans": "Linear structure",
+    "exp": "Linear বা Sequential Structure-এ ব্যবহারকারী নির্দিষ্ট ক্রমানুসারে এক পৃষ্ঠা থেকে অন্য পৃষ্ঠায় যায়।",
+    "lev": 0.6
+  },
+  {
+    "id": 19,
+    "q": "Hybrid website structure কী?",
+    "opt": ["A structure using only images", "A combination of multiple website structures", "A structure without hyperlinks", "A website with only one page"],
+    "ans": "A combination of multiple website structures",
+    "exp": "Hybrid বা Combination Structure হলো একাধিক ধরনের Website Structure-এর সমন্বয়। যেমন Hierarchical ও Network Structure একসঙ্গে ব্যবহার করা।",
+    "lev": 0.7
+  },
+  {
+    "id": 20,
+    "q": "একটি website-কে internet-এ available করার process-কে কী বলা হয়?",
+    "opt": ["Web publishing", "Debugging", "Compiling", "Formatting"],
+    "ans": "Web publishing",
+    "exp": "Web Publishing হলো Website-এর প্রয়োজনীয় File ও Resource Server-এ প্রকাশ করে Internet-এর মাধ্যমে ব্যবহারকারীদের জন্য উন্মুক্ত করার প্রক্রিয়া।",
+    "lev": 0.6
+  },
+  {
+    "id": 21,
+    "q": "HTML-এর পূর্ণরূপ কী?",
+    "opt": ["HyperText Markup Language", "HighText Machine Language", "Hyper Transfer Markup Language", "Home Tool Markup Language"],
+    "ans": "HyperText Markup Language",
+    "exp": "HTML-এর পূর্ণরূপ HyperText Markup Language। এটি ওয়েবপেজের Structure তৈরি করার Standard Markup Language।",
+    "lev": 0.5
+  },
+  {
+    "id": 22,
+    "q": "HTML তৈরি করার credit কাদের দেওয়া হয়?",
+    "opt": ["Bill Gates", "Tim Berners-Lee", "Dennis Ritchie", "James Gosling"],
+    "ans": "Tim Berners-Lee",
+    "exp": "Tim Berners-Lee HTML-এর প্রাথমিক সংস্করণ তৈরি করেন। তিনি World Wide Web-এর উদ্ভাবক হিসেবেও পরিচিত।",
+    "lev": 0.6
+  },
+  {
+    "id": 23,
+    "q": "HTML web standards develop ও maintain করে কোন organization?",
+    "opt": ["W3C only", "WHATWG", "IEEE", "ISO only"],
+    "ans": "WHATWG",
+    "exp": "বর্তমানে HTML Standard মূলত WHATWG রক্ষণাবেক্ষণ করে। W3C-ও Web Standards উন্নয়নে গুরুত্বপূর্ণ ভূমিকা রাখে।",
+    "lev": 0.8
+  },
+  {
+    "id": 24,
+    "q": "HTML5 document-এর beginning-এ standard declaration কী ব্যবহার করা হয়?",
+    "opt": ["<html5>", "<!DOCTYPE html>", "<!HTML>", "<doctype html5>"],
+    "ans": "<!DOCTYPE html>",
+    "exp": "HTML5 Document-এর শুরুতে <!DOCTYPE html> ব্যবহার করা হয়। এটি Browser-কে Document-এর HTML Standard সম্পর্কে জানায়।",
+    "lev": 0.6
+  },
+  {
+    "id": 25,
+    "q": "HTML document-এর root element কোন tag represent করে?",
+    "opt": ["<body>", "<head>", "<html>", "<root>"],
+    "ans": "<html>",
+    "exp": "<html> হলো HTML Document-এর Root Element। সাধারণত <head> ও <body> এর ভিতরে অবস্থান করে।",
+    "lev": 0.5
+  },
+  {
+    "id": 26,
+    "q": "Metadata ও document information কোন section-এ থাকে?",
+    "opt": ["<body>", "<head>", "<footer>", "<main>"],
+    "ans": "<head>",
+    "exp": "<head> Element-এ Document-এর Metadata, Title, Stylesheet Link এবং অন্যান্য Head-related Information রাখা হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 27,
+    "q": "HTML document-এর main visible content কোন tag-এ থাকে?",
+    "opt": ["<head>", "<meta>", "<body>", "<title>"],
+    "ans": "<body>",
+    "exp": "<body> Element-এর ভিতরে ওয়েবপেজের প্রদর্শিত Content যেমন Heading, Paragraph, Image, Table ইত্যাদি রাখা হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 28,
+    "q": "Browser tab-এ displayed title কোন HTML tag define করে?",
+    "opt": ["<header>", "<title>", "<h1>", "<caption>"],
+    "ans": "<title>",
+    "exp": "<title> Tag ওয়েবপেজের Title নির্ধারণ করে। এটি সাধারণত Browser Tab বা Window Title-এ প্রদর্শিত হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 29,
+    "q": "HTML document-এ metadata define করতে কোন tag ব্যবহার করা হয়?",
+    "opt": ["<meta>", "<data>", "<info>", "<metadata>"],
+    "ans": "<meta>",
+    "exp": "<meta> Tag দিয়ে Character Encoding, Description, Viewport এবং অন্যান্য Metadata নির্ধারণ করা যায়।",
+    "lev": 0.6
+  },
+  {
+    "id": 30,
+    "q": "HTML document-এর character encoding কোন attribute specify করে?",
+    "opt": ["type", "charset", "encoding", "lang"],
+    "ans": "charset",
+    "exp": "charset Attribute Character Encoding নির্ধারণ করে। যেমন: <meta charset=\"UTF-8\">। UTF-8 বাংলা সহ বিভিন্ন ভাষার Character সমর্থন করে।",
+    "lev": 0.7
+  },
+  {
+    "id": 31,
+    "q": "HTML tag কী?",
+    "opt": ["A database record", "A markup instruction enclosed in angle brackets", "A CSS property", "A JavaScript function"],
+    "ans": "A markup instruction enclosed in angle brackets",
+    "exp": "HTML Tag হলো Angle Bracket (< >)-এর মধ্যে লেখা Markup Instruction। যেমন: <p>, <h1>, <img>।",
+    "lev": 0.5
+  },
+  {
+    "id": 32,
+    "q": "HTML element কী?",
+    "opt": ["Only an opening tag", "Only text content", "A complete HTML component consisting of tags and content, where applicable", "A CSS selector"],
+    "ans": "A complete HTML component consisting of tags and content, where applicable",
+    "exp": "HTML Element হলো HTML-এর একটি সম্পূর্ণ Component। সাধারণত Opening Tag, Content ও Closing Tag নিয়ে গঠিত হয়। তবে Void Element-এর Closing Tag থাকে না।",
+    "lev": 0.7
+  },
+  {
+    "id": 33,
+    "q": "নিচের কোনটি একটি container element?",
+    "opt": ["<br>", "<img>", "<p>", "<hr>"],
+    "ans": "<p>",
+    "exp": "<p> একটি Container Element। এর Opening Tag ও Closing Tag রয়েছে এবং এর মধ্যে Content রাখা যায়।",
+    "lev": 0.6
+  },
+  {
+    "id": 34,
+    "q": "HTML-এ কোনটি void element?",
+    "opt": ["<div>", "<span>", "<br>", "<section>"],
+    "ans": "<br>",
+    "exp": "<br> একটি Void Element। এতে Content থাকে না এবং HTML-এ এর Closing Tag প্রয়োজন হয় না।",
+    "lev": 0.6
+  },
+  {
+    "id": 35,
+    "q": "Default হিসেবে largest HTML heading কোন tag create করে?",
+    "opt": ["<h6>", "<heading>", "<h1>", "<head>"],
+    "ans": "<h1>",
+    "exp": "HTML-এ <h1> থেকে <h6> পর্যন্ত ছয়টি Heading Level রয়েছে। <h1> সর্বোচ্চ গুরুত্বপূর্ণ Heading Level।",
+    "lev": 0.5
+  },
+  {
+    "id": 36,
+    "q": "Paragraph represent করে কোন HTML tag?",
+    "opt": ["<para>", "<p>", "<text>", "<paragraph>"],
+    "ans": "<p>",
+    "exp": "<p> Tag দিয়ে Paragraph তৈরি করা হয়। এটি একটি Block-level Element।",
+    "lev": 0.5
+  },
+  {
+    "id": 37,
+    "q": "নতুন paragraph শুরু না করে line break insert করে কোন tag?",
+    "opt": ["<hr>", "<br>", "<p>", "<line>"],
+    "ans": "<br>",
+    "exp": "<br> Tag একটি Line Break তৈরি করে। এটি Void Element এবং নতুন Paragraph তৈরি করে না।",
+    "lev": 0.5
+  },
+  {
+    "id": 38,
+    "q": "Sections-এর মধ্যে thematic break create করে কোন HTML tag?",
+    "opt": ["<br>", "<line>", "<hr>", "<break>"],
+    "ans": "<hr>",
+    "exp": "<hr> Tag একটি Thematic Break তৈরি করে। সাধারণত বিষয়বস্তু বা Section-এর মধ্যে বিষয়গত বিভাজন বোঝাতে ব্যবহৃত হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 39,
+    "q": "HTML element সম্পর্কে additional information কোন attribute provide করে?",
+    "opt": ["property", "attribute", "parameter", "selector"],
+    "ans": "attribute",
+    "exp": "HTML Attribute Element সম্পর্কে অতিরিক্ত Information প্রদান করে। এটি সাধারণত Opening Tag-এর মধ্যে লেখা হয়। যেমন: <a href=\"page.html\">।",
+    "lev": 0.6
+  },
+  {
+    "id": 40,
+    "q": "<p class=\"intro\">Hello</p> কোডে 'intro' কী?",
+    "opt": ["Tag name", "Attribute name", "Attribute value", "Element content"],
+    "ans": "Attribute value",
+    "exp": "এখানে class হলো Attribute Name এবং intro হলো Attribute Value। Hello হলো Element Content।",
+    "lev": 0.7
+  },
+  {
+    "id": 41,
+    "q": "HTML element-কে uniquely identify করতে সাধারণত কোন attribute ব্যবহার করা হয়?",
+    "opt": ["class", "id", "style", "name"],
+    "ans": "id",
+    "exp": "id Attribute একটি HTML Element-কে নির্দিষ্ট পরিচয় দিতে ব্যবহৃত হয়। একই Document-এ একটি id সাধারণত একটিমাত্র Element-এর জন্য ব্যবহার করা উচিত।",
+    "lev": 0.6
+  },
+  {
+    "id": 42,
+    "q": "একাধিক HTML elements দ্বারা share করা যায় কোন attribute?",
+    "opt": ["id", "class", "src", "href"],
+    "ans": "class",
+    "exp": "class Attribute একাধিক Element-এর মধ্যে একই নাম ব্যবহার করতে দেয়। CSS ও JavaScript দিয়ে Group হিসেবে Element নির্বাচন করা যায়।",
+    "lev": 0.6
+  },
+  {
+    "id": 43,
+    "q": "Inline CSS লেখার জন্য কোন attribute ব্যবহার করা হয়?",
+    "opt": ["css", "design", "style", "format"],
+    "ans": "style",
+    "exp": "style Attribute দিয়ে HTML Element-এর মধ্যে Inline CSS লেখা হয়। যেমন: <p style=\"color:red;\">Hello</p>।",
+    "lev": 0.5
+  },
+  {
+    "id": 44,
+    "q": "External CSS stylesheet link করতে কোন tag ব্যবহার করা হয়?",
+    "opt": ["<style>", "<css>", "<link>", "<script>"],
+    "ans": "<link>",
+    "exp": "<link> Tag দিয়ে External Resource যুক্ত করা হয়। External CSS যুক্ত করার ক্ষেত্রে সাধারণত rel=\"stylesheet\" এবং href Attribute ব্যবহার করা হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 45,
+    "q": "HTML document-এর ভিতরে CSS rules লেখার জন্য কোন tag ব্যবহার করা হয়?",
+    "opt": ["<css>", "<style>", "<script>", "<design>"],
+    "ans": "<style>",
+    "exp": "<style> Tag-এর ভিতরে Internal CSS লেখা হয়। এটি সাধারণত HTML Document-এর <head> অংশে রাখা হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 46,
+    "q": "HTML document-এ JavaScript include করতে কোন tag ব্যবহার করা হয়?",
+    "opt": ["<js>", "<javascript>", "<script>", "<code>"],
+    "ans": "<script>",
+    "exp": "<script> Tag দিয়ে HTML Document-এ JavaScript যুক্ত করা যায়। Internal JavaScript অথবা External JavaScript File—দুইভাবেই ব্যবহার করা যায়।",
+    "lev": 0.5
+  },
+  {
+    "id": 47,
+    "q": "Element-এর content-এর language কোন HTML attribute specify করে?",
+    "opt": ["charset", "lang", "language", "locale"],
+    "ans": "lang",
+    "exp": "lang Attribute কোনো Element-এর Content-এর ভাষা নির্ধারণ করে। যেমন: <html lang=\"bn\"> দিয়ে বাংলা ভাষা নির্দেশ করা যায়।",
+    "lev": 0.7
+  },
+  {
+    "id": 48,
+    "q": "Document-এর main content define করে কোন HTML element?",
+    "opt": ["<main>", "<aside>", "<nav>", "<footer>"],
+    "ans": "<main>",
+    "exp": "<main> Element একটি Document-এর প্রধান Content নির্দেশ করে। সাধারণত একটি Document-এ একটি প্রধান <main> Element ব্যবহার করা হয়।",
+    "lev": 0.7
+  },
+  {
+    "id": 49,
+    "q": "অনেক modern semantic elements ও native multimedia support কোন HTML version introduce করে?",
+    "opt": ["HTML 2.0", "HTML 3.2", "HTML4", "HTML5"],
+    "ans": "HTML5",
+    "exp": "HTML5-এ <header>, <footer>, <nav>, <article>, <section>, <audio> ও <video>-এর মতো গুরুত্বপূর্ণ Element যুক্ত হয়।",
+    "lev": 0.7
+  },
+  {
+    "id": 50,
+    "q": "Main HTML document sections-এর correct basic order কী?",
+    "opt": ["<body>, <head>, <html>", "<html>, <head>, <body>", "<head>, <html>, <body>", "<html>, <body>, <head>"],
+    "ans": "<html>, <head>, <body>",
+    "exp": "একটি HTML Document-এর সাধারণ কাঠামো হলো <!DOCTYPE html>, তারপর <html>, এর ভিতরে <head> এবং <body>।",
+    "lev": 0.6
+  },
+  {
+    "id": 51,
+    "q": "Strong importance সহ text bold করতে কোন HTML tag ব্যবহার করা হয়?",
+    "opt": ["<b>", "<strong>", "<bold>", "<em>"],
+    "ans": "<strong>",
+    "exp": "<strong> Tag কোনো Text-এর Strong Importance বোঝায়। Browser সাধারণত এটি Bold করে প্রদর্শন করে।",
+    "lev": 0.5
+  },
+  {
+    "id": 52,
+    "q": "Text emphasize করতে কোন HTML tag ব্যবহার করা হয়?",
+    "opt": ["<i>", "<em>", "<mark>", "<small>"],
+    "ans": "<em>",
+    "exp": "<em> Tag দিয়ে Emphasized Text প্রকাশ করা হয়। Browser সাধারণত এটি Italic Style-এ দেখায়।",
+    "lev": 0.5
+  },
+  {
+    "id": 53,
+    "q": "Semantic emphasis ছাড়াই traditionally italic style-এ text display করে কোন tag?",
+    "opt": ["<i>", "<strong>", "<ins>", "<del>"],
+    "ans": "<i>",
+    "exp": "<i> Tag দিয়ে সাধারণত Italic Text দেখানো হয়। এটি নিজে থেকে <em>-এর মতো Emphasis বোঝায় না।",
+    "lev": 0.6
+  },
+  {
+    "id": 54,
+    "q": "Text highlight করতে কোন HTML tag ব্যবহার করা হয়?",
+    "opt": ["<highlight>", "<mark>", "<strong>", "<u>"],
+    "ans": "<mark>",
+    "exp": "<mark> Tag দিয়ে কোনো Text-কে Highlight বা বিশেষভাবে চিহ্নিত করা হয়। Browser সাধারণত হলুদ Background দিয়ে দেখায়।",
+    "lev": 0.5
+  },
+  {
+    "id": 55,
+    "q": "Deleted text represent করে কোন tag?",
+    "opt": ["<remove>", "<del>", "<strike>", "<delete>"],
+    "ans": "<del>",
+    "exp": "<del> Tag দিয়ে Document থেকে Deleted বা মুছে ফেলা Text নির্দেশ করা হয়। Browser সাধারণত Text-এর ওপর Line দেখায়।",
+    "lev": 0.6
+  },
+  {
+    "id": 56,
+    "q": "Inserted text represent করে কোন tag?",
+    "opt": ["<add>", "<new>", "<ins>", "<insert>"],
+    "ans": "<ins>",
+    "exp": "<ins> Tag দিয়ে Document-এ নতুনভাবে যুক্ত করা Text নির্দেশ করা হয়। Browser সাধারণত Underline করে দেখায়।",
+    "lev": 0.6
+  },
+  {
+    "id": 57,
+    "q": "Subscript text display করতে কোন tag ব্যবহার করা হয়?",
+    "opt": ["<sup>", "<sub>", "<small>", "<down>"],
+    "ans": "<sub>",
+    "exp": "<sub> Tag দিয়ে Subscript Text লেখা হয়। যেমন H<sub>2</sub>O-তে 2 নিচে প্রদর্শিত হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 58,
+    "q": "Superscript text display করতে কোন tag ব্যবহার করা হয়?",
+    "opt": ["<sub>", "<sup>", "<top>", "<small>"],
+    "ans": "<sup>",
+    "exp": "<sup> Tag দিয়ে Superscript Text লেখা হয়। যেমন x<sup>2</sup>-এ 2 উপরে প্রদর্শিত হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 59,
+    "q": "Smaller text display করতে কোন tag ব্যবহার করা হয়?",
+    "opt": ["<tiny>", "<small>", "<mini>", "<sub>"],
+    "ans": "<small>",
+    "exp": "<small> Tag দিয়ে তুলনামূলক ছোট Text দেখানো হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 60,
+    "q": "Text-এ whitespace ও line breaks preserve করতে কোন HTML tag ব্যবহার করা হয়?",
+    "opt": ["<p>", "<pre>", "<br>", "<code>"],
+    "ans": "<pre>",
+    "exp": "<pre> Tag Preformatted Text প্রদর্শন করে। এর ভিতরে থাকা Spaces ও Line Break সাধারণত অপরিবর্তিত থাকে।",
+    "lev": 0.7
+  },
+  {
+    "id": 61,
+    "q": "Short inline quotation represent করে কোন HTML element?",
+    "opt": ["<blockquote>", "<q>", "<quote>", "<cite>"],
+    "ans": "<q>",
+    "exp": "<q> Tag দিয়ে ছোট Inline Quotation প্রকাশ করা হয়। Browser সাধারণত এর চারপাশে Quotation Marks যোগ করে।",
+    "lev": 0.7
+  },
+  {
+    "id": 62,
+    "q": "Longer block quotation-এর জন্য কোন HTML tag ব্যবহার করা হয়?",
+    "opt": ["<q>", "<blockquote>", "<quote>", "<pre>"],
+    "ans": "<blockquote>",
+    "exp": "<blockquote> Tag দিয়ে দীর্ঘ Quotation বা অন্য কোনো Source থেকে উদ্ধৃত অংশ Block হিসেবে দেখানো হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 63,
+    "q": "Text color change করে কোন CSS property?",
+    "opt": ["background-color", "font-style", "color", "text-decoration"],
+    "ans": "color",
+    "exp": "CSS-এর color Property দিয়ে Text-এর রং নির্ধারণ করা হয়। যেমন color: red;।",
+    "lev": 0.5
+  },
+  {
+    "id": 64,
+    "q": "Element-এর background color change করে কোন CSS property?",
+    "opt": ["color", "background-color", "font-color", "fill"],
+    "ans": "background-color",
+    "exp": "background-color Property দিয়ে Element-এর Background Color নির্ধারণ করা হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 65,
+    "q": "Text-এর size control করে কোন CSS property?",
+    "opt": ["font-size", "text-size", "font-weight", "line-height"],
+    "ans": "font-size",
+    "exp": "font-size Property দিয়ে Text-এর Size নির্ধারণ করা হয়। যেমন font-size: 20px;।",
+    "lev": 0.5
+  },
+  {
+    "id": 66,
+    "q": "Text bold করে কোন CSS property?",
+    "opt": ["font-style", "font-weight", "text-transform", "font-family"],
+    "ans": "font-weight",
+    "exp": "font-weight Property দিয়ে Text-এর Thickness বা Boldness নিয়ন্ত্রণ করা হয়। যেমন font-weight: bold;।",
+    "lev": 0.5
+  },
+  {
+    "id": 67,
+    "q": "Text horizontally align করে কোন CSS property?",
+    "opt": ["vertical-align", "text-align", "align-items", "justify-content"],
+    "ans": "text-align",
+    "exp": "text-align Property দিয়ে Text-কে left, right, center বা justify করা যায়।",
+    "lev": 0.5
+  },
+  {
+    "id": 68,
+    "q": "Text-এ underline add করে কোন CSS property?",
+    "opt": ["text-decoration", "text-transform", "font-weight", "text-indent"],
+    "ans": "text-decoration",
+    "exp": "text-decoration Property দিয়ে Text-এ underline, overline, line-through ইত্যাদি Decoration দেওয়া যায়।",
+    "lev": 0.6
+  },
+  {
+    "id": 69,
+    "q": "Element-কে তার ID ব্যবহার করে target করে কোন CSS selector?",
+    "opt": [".header", "#header", "*header", "header#"],
+    "ans": "#header",
+    "exp": "CSS-এ ID Selector-এর আগে # ব্যবহার করা হয়। যেমন #header { color: blue; }।",
+    "lev": 0.6
+  },
+  {
+    "id": 70,
+    "q": "Class name ব্যবহার করে elements target করে কোন CSS selector?",
+    "opt": ["#box", ".box", "*box", "@box"],
+    "ans": ".box",
+    "exp": "CSS-এ Class Selector-এর আগে Dot (.) ব্যবহার করা হয়। যেমন .box { padding: 10px; }।",
+    "lev": 0.5
+  },
+  {
+    "id": 71,
+    "q": "Hyperlink create করতে কোন tag ব্যবহার করা হয়?",
+    "opt": ["<link>", "<a>", "<href>", "<url>"],
+    "ans": "<a>",
+    "exp": "<a> Tag বা Anchor Element দিয়ে Hyperlink তৈরি করা হয়। এর href Attribute-এ Destination নির্ধারণ করা হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 72,
+    "q": "Hyperlink-এর destination কোন attribute specify করে?",
+    "opt": ["src", "link", "href", "target"],
+    "ans": "href",
+    "exp": "href-এর পূর্ণরূপ Hypertext Reference। এটি Hyperlink-এর Destination URL বা Resource নির্ধারণ করে।",
+    "lev": 0.5
+  },
+  {
+    "id": 73,
+    "q": "Hyperlink নতুন browsing context-এ open করে কোন attribute?",
+    "opt": ["href=\"_blank\"", "target=\"_blank\"", "open=\"new\"", "window=\"blank\""],
+    "ans": "target=\"_blank\"",
+    "exp": "Anchor Tag-এ target=\"_blank\" ব্যবহার করলে Link সাধারণত নতুন Tab বা Browsing Context-এ খোলে।",
+    "lev": 0.6
+  },
+  {
+    "id": 74,
+    "q": "Same page-এর another section-এ navigate করে কোন type-এর hyperlink?",
+    "opt": ["External link", "Internal page anchor link", "Email link", "Download link"],
+    "ans": "Internal page anchor link",
+    "exp": "Internal Page Anchor Link একই Web Page-এর নির্দিষ্ট Section-এ নিয়ে যায়। যেমন href=\"#about\" এবং id=\"about\"।",
+    "lev": 0.7
+  },
+  {
+    "id": 75,
+    "q": "Email link create করতে সাধারণত কোন URL scheme ব্যবহার করা হয়?",
+    "opt": ["http:", "ftp:", "mailto:", "email:"],
+    "ans": "mailto:",
+    "exp": "mailto: Scheme দিয়ে Email Link তৈরি করা যায়। যেমন <a href=\"mailto:test@example.com\">Email</a>।",
+    "lev": 0.7
+  },
+  {
+    "id": 76,
+    "q": "Image embed করতে কোন HTML tag ব্যবহার করা হয়?",
+    "opt": ["<picture>", "<img>", "<image>", "<src>"],
+    "ans": "<img>",
+    "exp": "<img> Tag দিয়ে Web Page-এ Image যুক্ত করা হয়। এটি একটি Void Element।",
+    "lev": 0.5
+  },
+  {
+    "id": 77,
+    "q": "Image file-এর location কোন attribute specify করে?",
+    "opt": ["href", "src", "alt", "path"],
+    "ans": "src",
+    "exp": "src Attribute-এর পূর্ণরূপ Source। এটি Image File-এর URL বা Path নির্ধারণ করে।",
+    "lev": 0.5
+  },
+  {
+    "id": 78,
+    "q": "Image-এর alt attribute-এর primary purpose কী?",
+    "opt": ["Change image color", "Provide alternative text", "Set image alignment", "Create an image link"],
+    "ans": "Provide alternative text",
+    "exp": "alt Attribute Image-এর Alternative Text প্রদান করে। Image Load না হলে বা Screen Reader ব্যবহার করলে এটি গুরুত্বপূর্ণ।",
+    "lev": 0.6
+  },
+  {
+    "id": 79,
+    "q": "Image-এর dimensions specify করতে কোন attributes ব্যবহার করা যায়?",
+    "opt": ["size and scale", "width and height", "length and breadth", "x and y"],
+    "ans": "width and height",
+    "exp": "width ও height Attribute দিয়ে Image-এর Width এবং Height নির্ধারণ করা যায়।",
+    "lev": 0.5
+  },
+  {
+    "id": 80,
+    "q": "Responsive image selection-এর জন্য multiple image sources provide করে কোন HTML element?",
+    "opt": ["<source>", "<picture>", "<imgset>", "<responsive>"],
+    "ans": "<picture>",
+    "exp": "<picture> Element-এর মাধ্যমে বিভিন্ন Screen Size বা Format-এর জন্য একাধিক Image Source দেওয়া যায়। এর ভিতরে <source> এবং <img> ব্যবহৃত হয়।",
+    "lev": 0.8
+  },
+  {
+    "id": 81,
+    "q": "Viewport-এর কাছাকাছি না আসা পর্যন্ত image load না করার জন্য কোন attribute ব্যবহার করা হয়?",
+    "opt": ["async", "defer", "loading=\"lazy\"", "lazy=\"true\""],
+    "ans": "loading=\"lazy\"",
+    "exp": "loading=\"lazy\" ব্যবহার করলে Browser Image-এর Lazy Loading করতে পারে। ফলে Viewport-এর কাছাকাছি না আসা পর্যন্ত Image Load পিছিয়ে দেওয়া যায়।",
+    "lev": 0.8
+  },
+  {
+    "id": 82,
+    "q": "Unordered list create করতে কোন HTML tag ব্যবহার করা হয়?",
+    "opt": ["<ol>", "<ul>", "<li>", "<list>"],
+    "ans": "<ul>",
+    "exp": "<ul> অর্থ Unordered List। এতে List Items সাধারণত Bullet চিহ্ন দিয়ে প্রদর্শিত হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 83,
+    "q": "Ordered list create করতে কোন HTML tag ব্যবহার করা হয়?",
+    "opt": ["<ul>", "<ol>", "<li>", "<dl>"],
+    "ans": "<ol>",
+    "exp": "<ol> অর্থ Ordered List। এতে List Items সাধারণত Number বা Letter অনুযায়ী ক্রমানুসারে প্রদর্শিত হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 84,
+    "q": "Individual list item define করে কোন tag?",
+    "opt": ["<item>", "<li>", "<list>", "<dt>"],
+    "ans": "<li>",
+    "exp": "<li> Tag দিয়ে Ordered বা Unordered List-এর প্রতিটি Item নির্ধারণ করা হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 85,
+    "q": "Ordered list-এর numbering style change করে কোন attribute?",
+    "opt": ["style", "type", "format", "number"],
+    "ans": "type",
+    "exp": "Ordered List-এর type Attribute দিয়ে Numbering Style পরিবর্তন করা যায়। যেমন 1, A, a, I ও i।",
+    "lev": 0.7
+  },
+  {
+    "id": 86,
+    "q": "Ordered list-এর starting number কোন attribute specify করে?",
+    "opt": ["begin", "start", "value", "index"],
+    "ans": "start",
+    "exp": "<ol> Element-এর start Attribute দিয়ে Ordered List-এর প্রাথমিক Number নির্ধারণ করা হয়। যেমন start=\"5\"।",
+    "lev": 0.6
+  },
+  {
+    "id": 87,
+    "q": "Description list create করে কোন HTML element?",
+    "opt": ["<ul>", "<ol>", "<dl>", "<li>"],
+    "ans": "<dl>",
+    "exp": "<dl> অর্থ Description List। এটি Term ও Description-এর তালিকা তৈরি করতে ব্যবহৃত হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 88,
+    "q": "Description list-এ term define করে কোন tag?",
+    "opt": ["<dd>", "<dt>", "<li>", "<term>"],
+    "ans": "<dt>",
+    "exp": "<dt> Tag দিয়ে Description List-এর Term বা বিষয় নির্ধারণ করা হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 89,
+    "q": "Description list-এ term-এর description define করে কোন tag?",
+    "opt": ["<dt>", "<dd>", "<desc>", "<li>"],
+    "ans": "<dd>",
+    "exp": "<dd> Tag দিয়ে <dt> দ্বারা নির্ধারিত Term-এর Description বা ব্যাখ্যা দেওয়া হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 90,
+    "q": "Nested list কী?",
+    "opt": ["A list without items", "A list placed inside another list item", "A list containing only numbers", "A list with hyperlinks only"],
+    "ans": "A list placed inside another list item",
+    "exp": "Nested List হলো একটি List-এর কোনো Item-এর ভিতরে আরেকটি List রাখা। এটি Sub-list তৈরি করতে ব্যবহৃত হয়।",
+    "lev": 0.7
+  },
+  {
+    "id": 91,
+    "q": "Hyperlink destination-এর language relationship কোন HTML attribute specify করে?",
+    "opt": ["rel", "hreflang", "lang", "type"],
+    "ans": "hreflang",
+    "exp": "hreflang Attribute Link-এর Destination Resource-এর ভাষা নির্দেশ করতে ব্যবহৃত হয়। এটি <a> Element-এ ব্যবহার করা যায়।",
+    "lev": 0.8
+  },
+  {
+    "id": 92,
+    "q": "Hyperlink সম্পর্কে advisory information কোন attribute provide করতে পারে?",
+    "opt": ["alt", "title", "name", "description"],
+    "ans": "title",
+    "exp": "title Attribute কোনো Element সম্পর্কে অতিরিক্ত Advisory Information দিতে পারে। অনেক Browser-এ Hover করলে Tooltip দেখা যায়।",
+    "lev": 0.7
+  },
+  {
+    "id": 93,
+    "q": "Inline content group করতে কোন HTML element ব্যবহার করা হয়?",
+    "opt": ["<div>", "<span>", "<section>", "<article>"],
+    "ans": "<span>",
+    "exp": "<span> হলো একটি Generic Inline Container। এটি সাধারণত Inline Text বা ছোট Content-এর Style ও Selection-এর জন্য ব্যবহৃত হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 94,
+    "q": "Generic block-level container হিসেবে সাধারণত কোন HTML element ব্যবহার করা হয়?",
+    "opt": ["<span>", "<div>", "<em>", "<strong>"],
+    "ans": "<div>",
+    "exp": "<div> হলো একটি Generic Block-level Container। এটি বিভিন্ন Element-কে Group করে Layout বা Styling-এর কাজে ব্যবহৃত হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 95,
+    "q": "Element-এর border-এর ভিতরের space control করে কোন CSS property?",
+    "opt": ["margin", "padding", "border-spacing", "gap"],
+    "ans": "padding",
+    "exp": "padding হলো Element-এর Content ও Border-এর মধ্যবর্তী Space।",
+    "lev": 0.6
+  },
+  {
+    "id": 96,
+    "q": "Element-এর border-এর বাইরের space control করে কোন CSS property?",
+    "opt": ["padding", "margin", "outline", "width"],
+    "ans": "margin",
+    "exp": "margin হলো Element-এর Border-এর বাইরের Space। এটি অন্যান্য Element থেকে দূরত্ব তৈরি করে।",
+    "lev": 0.6
+  },
+  {
+    "id": 97,
+    "q": "Font family specify করে কোন CSS property?",
+    "opt": ["font-style", "font-family", "font-weight", "font-size"],
+    "ans": "font-family",
+    "exp": "font-family Property দিয়ে Text-এর Font বা Typeface নির্ধারণ করা হয়। যেমন font-family: Arial, sans-serif;।",
+    "lev": 0.5
+  },
+  {
+    "id": 98,
+    "q": "Inline CSS-এর মাধ্যমে background image set করতে কোন HTML attribute ব্যবহার করা যায়?",
+    "opt": ["background", "style", "src", "image"],
+    "ans": "style",
+    "exp": "style Attribute-এর মাধ্যমে Inline CSS ব্যবহার করে Background Image নির্ধারণ করা যায়। যেমন style=\"background-image: url('bg.jpg');\"।",
+    "lev": 0.7
+  },
+  {
+    "id": 99,
+    "q": "Element-কে invisible করে কিন্তু layout space preserve করে কোন CSS value?",
+    "opt": ["display: none", "visibility: hidden", "opacity: 0", "position: absolute"],
+    "ans": "visibility: hidden",
+    "exp": "visibility: hidden Element-কে অদৃশ্য করে কিন্তু Layout Space বজায় রাখে। অন্যদিকে display: none সাধারণত Layout থেকে Element সরিয়ে দেয়।",
+    "lev": 0.8
+  },
+  {
+    "id": 100,
+    "q": "Specified box-এর মধ্যে image কীভাবে fit হবে তা নির্ধারণ করে কোন CSS property?",
+    "opt": ["image-fit", "object-fit", "background-size", "fit-content"],
+    "ans": "object-fit",
+    "exp": "object-fit Property দিয়ে Image বা Video-কে নির্ধারিত Box-এর মধ্যে কীভাবে Fit করা হবে তা নিয়ন্ত্রণ করা হয়। যেমন cover ও contain।",
+    "lev": 0.8
+  },
+  {
+    "id": 101,
+    "q": "Table create করতে কোন HTML tag ব্যবহার করা হয়?",
+    "opt": ["<tab>", "<table>", "<tr>", "<td>"],
+    "ans": "<table>",
+    "exp": "<table> Tag দিয়ে HTML Table তৈরি করা হয়। এর মধ্যে Row ও Cell তৈরি করতে অন্যান্য Table Element ব্যবহার করা হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 102,
+    "q": "Table row define করে কোন tag?",
+    "opt": ["<td>", "<th>", "<tr>", "<row>"],
+    "ans": "<tr>",
+    "exp": "<tr> অর্থ Table Row। এটি HTML Table-এর একটি Row তৈরি করে।",
+    "lev": 0.5
+  },
+  {
+    "id": 103,
+    "q": "Standard table data cell define করে কোন tag?",
+    "opt": ["<th>", "<td>", "<tr>", "<cell>"],
+    "ans": "<td>",
+    "exp": "<td> অর্থ Table Data। এটি Table-এর সাধারণ Data Cell তৈরি করে।",
+    "lev": 0.5
+  },
+  {
+    "id": 104,
+    "q": "HTML table-এ header cell define করে কোন tag?",
+    "opt": ["<thead>", "<th>", "<td>", "<header>"],
+    "ans": "<th>",
+    "exp": "<th> Tag দিয়ে Table Header Cell তৈরি করা হয়। Browser সাধারণত এর Text Bold ও Center করে দেখায়।",
+    "lev": 0.5
+  },
+  {
+    "id": 105,
+    "q": "Table-এর caption define করে কোন HTML tag?",
+    "opt": ["<title>", "<caption>", "<summary>", "<label>"],
+    "ans": "<caption>",
+    "exp": "<caption> Tag দিয়ে Table-এর Title বা Caption নির্ধারণ করা হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 106,
+    "q": "Table cell-কে multiple columns span করতে দেয় কোন attribute?",
+    "opt": ["rowspan", "colspan", "cellspan", "column"],
+    "ans": "colspan",
+    "exp": "colspan Attribute দিয়ে একটি Table Cell-কে একাধিক Column জুড়ে বিস্তৃত করা যায়। যেমন colspan=\"2\"।",
+    "lev": 0.6
+  },
+  {
+    "id": 107,
+    "q": "Table cell-কে multiple rows span করতে দেয় কোন attribute?",
+    "opt": ["colspan", "rowspan", "rowmerge", "cellmerge"],
+    "ans": "rowspan",
+    "exp": "rowspan Attribute দিয়ে একটি Table Cell-কে একাধিক Row জুড়ে বিস্তৃত করা যায়। যেমন rowspan=\"2\"।",
+    "lev": 0.6
+  },
+  {
+    "id": 108,
+    "q": "HTML table-এর border thickness traditionally specify করতে কোন attribute ব্যবহার করা হতো?",
+    "opt": ["outline", "border", "frame-width", "stroke"],
+    "ans": "border",
+    "exp": "পুরোনো HTML-এ table-এর border Attribute দিয়ে Border Thickness নির্ধারণ করা হতো। আধুনিক Web Design-এ CSS border Property ব্যবহার করা হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 109,
+    "q": "cellspacing attribute traditionally কী control করত?",
+    "opt": ["Space between table cells", "Space inside a cell", "Text alignment", "Table width"],
+    "ans": "Space between table cells",
+    "exp": "cellspacing Attribute দিয়ে Table Cell-গুলোর মধ্যবর্তী Space নির্ধারণ করা হতো। আধুনিক HTML-এ CSS border-spacing ব্যবহৃত হয়।",
+    "lev": 0.7
+  },
+  {
+    "id": 110,
+    "q": "cellpadding attribute traditionally কী control করত?",
+    "opt": ["Space between rows", "Space between tables", "Space between cell content and cell border", "Table border thickness"],
+    "ans": "Space between cell content and cell border",
+    "exp": "cellpadding Attribute দিয়ে Cell-এর Content ও Border-এর মধ্যবর্তী Space নির্ধারণ করা হতো। আধুনিক CSS-এ padding ব্যবহার করা হয়।",
+    "lev": 0.7
+  },
+  {
+    "id": 111,
+    "q": "Table-এর header content group করে কোন HTML element?",
+    "opt": ["<tbody>", "<tfoot>", "<thead>", "<th>"],
+    "ans": "<thead>",
+    "exp": "<thead> Element দিয়ে Table-এর Header Row বা Header Content Group করা হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 112,
+    "q": "Table-এর main data rows group করে কোন HTML element?",
+    "opt": ["<thead>", "<tbody>", "<tfoot>", "<td>"],
+    "ans": "<tbody>",
+    "exp": "<tbody> Element দিয়ে Table-এর মূল Data Row-গুলো Group করা হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 113,
+    "q": "Table-এর footer content group করে কোন HTML element?",
+    "opt": ["<footer>", "<tfoot>", "<tbody>", "<caption>"],
+    "ans": "<tfoot>",
+    "exp": "<tfoot> Element দিয়ে Table-এর Footer Content Group করা হয়। যেমন Total বা Summary Row।",
+    "lev": 0.6
+  },
+  {
+    "id": 114,
+    "q": "Table cell কতটি columns span করবে তা specify করে কোন attribute?",
+    "opt": ["rowspan", "colspan", "span-row", "width"],
+    "ans": "colspan",
+    "exp": "colspan Attribute নির্ধারণ করে একটি Cell কতটি Column জুড়ে থাকবে।",
+    "lev": 0.6
+  },
+  {
+    "id": 115,
+    "q": "Table header cell-কে তার row বা column-এর সঙ্গে associate করে কোন attribute?",
+    "opt": ["scope", "axis", "relation", "headers"],
+    "ans": "scope",
+    "exp": "th Element-এর scope Attribute দিয়ে Header Cell-টি কোন Row বা Column-এর জন্য প্রযোজ্য তা নির্দেশ করা হয়। এর Value হতে পারে row, col, rowgroup বা colgroup।",
+    "lev": 0.8
+  },
+  {
+    "id": 116,
+    "q": "Form create করতে কোন HTML tag ব্যবহার করা হয়?",
+    "opt": ["<input>", "<form>", "<fieldset>", "<submit>"],
+    "ans": "<form>",
+    "exp": "<form> Element দিয়ে User Input সংগ্রহের Form তৈরি করা হয়। এর ভিতরে বিভিন্ন Input Control রাখা যায়।",
+    "lev": 0.5
+  },
+  {
+    "id": 117,
+    "q": "Form data কোথায় পাঠানো হবে তা কোন attribute specify করে?",
+    "opt": ["method", "action", "target", "name"],
+    "ans": "action",
+    "exp": "action Attribute Form Data কোন URL বা Endpoint-এ পাঠানো হবে তা নির্ধারণ করে।",
+    "lev": 0.6
+  },
+  {
+    "id": 118,
+    "q": "Form data কীভাবে submit হবে তা কোন attribute specify করে?",
+    "opt": ["action", "method", "type", "submit"],
+    "ans": "method",
+    "exp": "method Attribute Form Data পাঠানোর HTTP Method নির্ধারণ করে। সাধারণত GET ও POST ব্যবহৃত হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 119,
+    "q": "Form data সাধারণত URL-এ append করে কোন HTTP method?",
+    "opt": ["POST", "GET", "PATCH", "DELETE"],
+    "ans": "GET",
+    "exp": "GET Method-এ Form Data সাধারণত URL-এর Query String হিসেবে পাঠানো হয়। এটি সাধারণত Data Retrieval-এর জন্য ব্যবহৃত হয়।",
+    "lev": 0.7
+  },
+  {
+    "id": 120,
+    "q": "Form data সাধারণত request body-তে পাঠায় কোন HTTP method?",
+    "opt": ["GET", "POST", "TRACE", "HEAD"],
+    "ans": "POST",
+    "exp": "POST Method-এ Form Data সাধারণত HTTP Request Body-তে পাঠানো হয়। এটি Data Submit বা Create করার ক্ষেত্রে ব্যবহৃত হতে পারে।",
+    "lev": 0.7
+  },
+  {
+    "id": 121,
+    "q": "Single-line text field create করে কোন input type?",
+    "opt": ["password", "text", "textarea", "paragraph"],
+    "ans": "text",
+    "exp": "<input type=\"text\"> দিয়ে Single-line Text Input তৈরি করা হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 122,
+    "q": "Entered characters default হিসেবে hide করে কোন input type?",
+    "opt": ["text", "hidden", "password", "secure"],
+    "ans": "password",
+    "exp": "<input type=\"password\"> দিয়ে Password Input তৈরি করা হয়। Browser সাধারণত Enter করা Character-গুলো Mask করে দেখায়।",
+    "lev": 0.5
+  },
+  {
+    "id": 123,
+    "q": "Multi-line text input field create করে কোন HTML element?",
+    "opt": ["<input type=\"text\">", "<textarea>", "<multiline>", "<text>"],
+    "ans": "<textarea>",
+    "exp": "<textarea> Element দিয়ে Multi-line Text Input তৈরি করা হয়। এটি সাধারণত Comments বা Messages সংগ্রহে ব্যবহৃত হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 124,
+    "q": "Group থেকে exactly one option select করতে দেয় কোন input type?",
+    "opt": ["checkbox", "radio", "text", "file"],
+    "ans": "radio",
+    "exp": "<input type=\"radio\"> দিয়ে Radio Button তৈরি করা হয়। একই Group-এর Radio Button-গুলোর name একই হলে সাধারণত একটিমাত্র Option Select করা যায়।",
+    "lev": 0.6
+  },
+  {
+    "id": 125,
+    "q": "Multiple independent options select করতে দেয় কোন input type?",
+    "opt": ["radio", "checkbox", "submit", "reset"],
+    "ans": "checkbox",
+    "exp": "<input type=\"checkbox\"> দিয়ে Checkbox তৈরি করা হয়। একাধিক Checkbox স্বাধীনভাবে Select করা যায়।",
+    "lev": 0.5
+  },
+  {
+    "id": 126,
+    "q": "Device থেকে file choose করতে দেয় কোন input type?",
+    "opt": ["upload", "file", "document", "attachment"],
+    "ans": "file",
+    "exp": "<input type=\"file\"> দিয়ে File Selection Control তৈরি করা হয়। ব্যবহারকারী Device থেকে File নির্বাচন করতে পারে।",
+    "lev": 0.5
+  },
+  {
+    "id": 127,
+    "q": "Form submit করার button create করে কোন input type?",
+    "opt": ["button", "submit", "send", "confirm"],
+    "ans": "submit",
+    "exp": "<input type=\"submit\"> Form Submission-এর জন্য Button তৈরি করে। এটি Form-এর নির্ধারিত Submission Process চালু করে।",
+    "lev": 0.5
+  },
+  {
+    "id": 128,
+    "q": "Form controls-কে তাদের initial values-এ reset করে কোন input type?",
+    "opt": ["clear", "reset", "remove", "cancel"],
+    "ans": "reset",
+    "exp": "<input type=\"reset\"> Form Control-গুলোর Value তাদের Initial Value-তে ফিরিয়ে দেয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 129,
+    "q": "Form input-কে mandatory করে কোন attribute?",
+    "opt": ["required", "mandatory", "validate", "needed"],
+    "ans": "required",
+    "exp": "required Attribute ব্যবহার করলে নির্দিষ্ট Input পূরণ না করে Form Submit করা যায় না—Browser-এর Built-in Validation অনুযায়ী।",
+    "lev": 0.6
+  },
+  {
+    "id": 130,
+    "q": "Empty input field-এর ভিতরে hint display করে কোন attribute?",
+    "opt": ["value", "placeholder", "title", "hint"],
+    "ans": "placeholder",
+    "exp": "placeholder Attribute Input Field-এর ভিতরে Hint বা Sample Text প্রদর্শন করে। এটি Actual Input Value নয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 131,
+    "q": "Submitted form data identify করতে name হিসেবে কোন attribute ব্যবহার করা হয়?",
+    "opt": ["id", "name", "class", "label"],
+    "ans": "name",
+    "exp": "name Attribute Form Submission-এর সময় Input Data-এর Key নির্ধারণ করে। সাধারণত Successful Form Control-এর Data পাঠানো হয়।",
+    "lev": 0.7
+  },
+  {
+    "id": 132,
+    "q": "Label-কে specific form control-এর সঙ্গে associate করে কোন attribute?",
+    "opt": ["name", "for", "target", "action"],
+    "ans": "for",
+    "exp": "<label> Element-এর for Attribute সংশ্লিষ্ট Input-এর id-এর সঙ্গে মিলিয়ে ব্যবহার করা হয়। এতে Label-এ Click করেও Input Focus বা Select করা যায়।",
+    "lev": 0.7
+  },
+  {
+    "id": 133,
+    "q": "Related form controls group করে কোন HTML element?",
+    "opt": ["<group>", "<fieldset>", "<section>", "<formgroup>"],
+    "ans": "<fieldset>",
+    "exp": "<fieldset> Element সম্পর্কিত Form Control-গুলোকে একটি Group-এ সাজায়।",
+    "lev": 0.6
+  },
+  {
+    "id": 134,
+    "q": "Fieldset-এর জন্য caption provide করে কোন tag?",
+    "opt": ["<caption>", "<legend>", "<label>", "<title>"],
+    "ans": "<legend>",
+    "exp": "<legend> Tag দিয়ে <fieldset>-এর Caption বা Title নির্ধারণ করা হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 135,
+    "q": "Email address enter করার জন্য designed কোন input type?",
+    "opt": ["text", "mail", "email", "address"],
+    "ans": "email",
+    "exp": "<input type=\"email\"> Email Address Input-এর জন্য ব্যবহৃত হয়। Browser সাধারণত Basic Email Format Validation করে।",
+    "lev": 0.6
+  },
+  {
+    "id": 136,
+    "q": "Date select করার control provide করে কোন input type?",
+    "opt": ["calendar", "date", "day", "datetime-local"],
+    "ans": "date",
+    "exp": "<input type=\"date\"> দিয়ে Date নির্বাচন করার Control তৈরি করা হয়। Browser অনুযায়ী Date Picker প্রদর্শিত হতে পারে।",
+    "lev": 0.5
+  },
+  {
+    "id": 137,
+    "q": "Numeric input control create করে কোন input type?",
+    "opt": ["integer", "number", "numeric-text", "digit"],
+    "ans": "number",
+    "exp": "<input type=\"number\"> দিয়ে Numeric Input Control তৈরি করা হয়। min, max ও step Attribute দিয়ে সীমা ও Increment নির্ধারণ করা যায়।",
+    "lev": 0.6
+  },
+  {
+    "id": 138,
+    "q": "Color select করতে দেয় কোন input type?",
+    "opt": ["color", "palette", "rgb", "paint"],
+    "ans": "color",
+    "exp": "<input type=\"color\"> দিয়ে Color Picker Control তৈরি করা হয়। Browser সাধারণত Color Selection Interface প্রদান করে।",
+    "lev": 0.6
+  },
+  {
+    "id": 139,
+    "q": "Dropdown selection list create করে কোন HTML element?",
+    "opt": ["<dropdown>", "<select>", "<optionlist>", "<menu>"],
+    "ans": "<select>",
+    "exp": "<select> Element দিয়ে Dropdown Selection List তৈরি করা হয়। এর ভিতরে <option> Element রাখা হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 140,
+    "q": "Dropdown list-এ individual option define করে কোন tag?",
+    "opt": ["<item>", "<option>", "<select-item>", "<li>"],
+    "ans": "<option>",
+    "exp": "<option> Tag দিয়ে <select> Element-এর প্রতিটি Selection Option নির্ধারণ করা হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 141,
+    "q": "Users-কে input field modify করতে বাধা দেয় কোন attribute?",
+    "opt": ["readonly", "required", "placeholder", "selected"],
+    "ans": "readonly",
+    "exp": "readonly Attribute Input-এর Value পড়তে দেয় কিন্তু ব্যবহারকারীকে সেটি পরিবর্তন করতে দেয় না। Readonly Input সাধারণত Form Submission-এ অন্তর্ভুক্ত হয়।",
+    "lev": 0.7
+  },
+  {
+    "id": 142,
+    "q": "Input control disable করে কোন attribute?",
+    "opt": ["readonly", "disabled", "hidden", "locked"],
+    "ans": "disabled",
+    "exp": "disabled Attribute কোনো Form Control নিষ্ক্রিয় করে। Disabled Control সাধারণত Focus করা যায় না এবং Form Submission-এ পাঠানো হয় না।",
+    "lev": 0.7
+  },
+  {
+    "id": 143,
+    "q": "Non-breaking space represent করে কোন HTML entity?",
+    "opt": ["&space;", "&nbsp;", "&blank;", "&sp;"],
+    "ans": "&nbsp;",
+    "exp": "&nbsp; অর্থ Non-Breaking Space। এটি এমন একটি Space তৈরি করে যেখানে Browser সাধারণত Line Break করে না।",
+    "lev": 0.6
+  },
+  {
+    "id": 144,
+    "q": "Less-than symbol represent করে কোন HTML entity?",
+    "opt": ["&gt;", "&lt;", "&le;", "&less;"],
+    "ans": "&lt;",
+    "exp": "&lt; দিয়ে Less-than (<) Symbol প্রদর্শন করা হয়। HTML Source-এ সরাসরি < ব্যবহার করলে Browser সেটিকে Tag-এর অংশ হিসেবে ব্যাখ্যা করতে পারে।",
+    "lev": 0.6
+  },
+  {
+    "id": 145,
+    "q": "Greater-than symbol represent করে কোন HTML entity?",
+    "opt": ["&lt;", "&gt;", "&ge;", "&greater;"],
+    "ans": "&gt;",
+    "exp": "&gt; দিয়ে Greater-than (>) Symbol প্রদর্শন করা হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 146,
+    "q": "Ampersand symbol represent করে কোন HTML entity?",
+    "opt": ["&and;", "&amp;", "&symbol;", "&per;"],
+    "ans": "&amp;",
+    "exp": "&amp; দিয়ে Ampersand (&) Symbol প্রদর্শন করা হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 147,
+    "q": "Copyright symbol represent করে কোন HTML entity?",
+    "opt": ["&copy;", "&cr;", "&copyright;", "&c;"],
+    "ans": "&copy;",
+    "exp": "&copy; একটি Named Character Reference, যা Copyright (©) Symbol প্রদর্শন করে।",
+    "lev": 0.5
+  },
+  {
+    "id": 148,
+    "q": "Registered trademark symbol represent করে কোন HTML entity?",
+    "opt": ["&tm;", "&reg;", "&trade;", "&registered;"],
+    "ans": "&reg;",
+    "exp": "&reg; দিয়ে Registered Trademark (®) Symbol প্রদর্শন করা হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 149,
+    "q": "Left double quotation mark represent করে কোন HTML character reference?",
+    "opt": ["&ldquo;", "&rdquo;", "&quot;", "&apos;"],
+    "ans": "&ldquo;",
+    "exp": "&ldquo; দিয়ে Left Double Quotation Mark (“) প্রদর্শন করা হয়।",
+    "lev": 0.8
+  },
+  {
+    "id": 150,
+    "q": "Modern HTML documents-এর জন্য widely recommended character encoding কোনটি?",
+    "opt": ["ASCII only", "UTF-8", "Binary", "EBCDIC"],
+    "ans": "UTF-8",
+    "exp": "UTF-8 একটি বহুল ব্যবহৃত Unicode Character Encoding। এটি বাংলা, English এবং বিশ্বের বহু ভাষার Character সমর্থন করে।",
+    "lev": 0.6
+  },
+  {
+    "id": 151,
+    "q": "Page বা section-এর introductory content represent করে কোন HTML5 element?",
+    "opt": ["<footer>", "<header>", "<aside>", "<main>"],
+    "ans": "<header>",
+    "exp": "<header> Element কোনো Page বা Section-এর Introductory Content ধারণ করে। যেমন Logo, Heading বা Introductory Information।",
+    "lev": 0.6
+  },
+  {
+    "id": 152,
+    "q": "Navigation links define করে কোন semantic HTML element?",
+    "opt": ["<menu>", "<nav>", "<link>", "<navigate>"],
+    "ans": "<nav>",
+    "exp": "<nav> Element Navigation Links-এর একটি Section নির্দেশ করে। যেমন Website-এর Main Navigation Menu।",
+    "lev": 0.5
+  },
+  {
+    "id": 153,
+    "q": "Independent article-এর main content represent করে কোন HTML5 element?",
+    "opt": ["<section>", "<article>", "<aside>", "<div>"],
+    "ans": "<article>",
+    "exp": "<article> Element এমন স্বতন্ত্র Content নির্দেশ করে যা আলাদাভাবে বিতরণ বা পুনর্ব্যবহার করা যায়। যেমন Blog Post বা News Article।",
+    "lev": 0.7
+  },
+  {
+    "id": 154,
+    "q": "Related content-কে thematic section-এ group করে কোন HTML5 element?",
+    "opt": ["<section>", "<span>", "<br>", "<label>"],
+    "ans": "<section>",
+    "exp": "<section> Element একটি Thematic Group of Content নির্দেশ করে। সাধারণত এর নিজস্ব Heading থাকে।",
+    "lev": 0.6
+  },
+  {
+    "id": 155,
+    "q": "Main content-এর সঙ্গে indirectly related content represent করে কোন semantic element?",
+    "opt": ["<main>", "<aside>", "<article>", "<nav>"],
+    "ans": "<aside>",
+    "exp": "<aside> Element Main Content-এর সঙ্গে সম্পর্কিত কিন্তু তুলনামূলকভাবে পরোক্ষ Content নির্দেশ করে। যেমন Sidebar বা Related Links।",
+    "lev": 0.7
+  },
+  {
+    "id": 156,
+    "q": "Page বা section-এর footer represent করে কোন HTML5 element?",
+    "opt": ["<bottom>", "<footer>", "<end>", "<section>"],
+    "ans": "<footer>",
+    "exp": "<footer> Element কোনো Page বা Section-এর Footer নির্দেশ করে। এতে Copyright, Author Information বা Related Links থাকতে পারে।",
+    "lev": 0.5
+  },
+  {
+    "id": 157,
+    "q": "Video content embed করতে কোন HTML element ব্যবহার করা হয়?",
+    "opt": ["<movie>", "<media>", "<video>", "<play>"],
+    "ans": "<video>",
+    "exp": "<video> Element দিয়ে HTML Document-এ Video যুক্ত করা যায়। controls Attribute ব্যবহার করলে Browser-এর Playback Controls দেখা যায়।",
+    "lev": 0.5
+  },
+  {
+    "id": 158,
+    "q": "Audio content embed করতে কোন HTML element ব্যবহার করা হয়?",
+    "opt": ["<sound>", "<audio>", "<music>", "<mp3>"],
+    "ans": "<audio>",
+    "exp": "<audio> Element দিয়ে HTML Document-এ Audio যুক্ত করা যায়। এটি MP3, WAV ও OGG-এর মতো সমর্থিত Audio Format ব্যবহার করতে পারে।",
+    "lev": 0.5
+  },
+  {
+    "id": 159,
+    "q": "Audio বা video-এর জন্য built-in playback controls display করে কোন attribute?",
+    "opt": ["controls", "player", "interface", "display"],
+    "ans": "controls",
+    "exp": "controls Attribute ব্যবহার করলে Browser Audio বা Video-এর Play, Pause ও Volume-এর মতো Playback Control প্রদর্শন করে।",
+    "lev": 0.6
+  },
+  {
+    "id": 160,
+    "q": "JavaScript-এর মাধ্যমে graphics draw করতে কোন HTML element ব্যবহার করা হয়?",
+    "opt": ["<svg>", "<canvas>", "<graphic>", "<draw>"],
+    "ans": "<canvas>",
+    "exp": "<canvas> Element JavaScript-এর মাধ্যমে 2D ও WebGL Graphics আঁকার জন্য একটি Drawing Surface প্রদান করে।",
+    "lev": 0.7
+  },
+  {
+    "id": 161,
+    "q": "Scalable Vector Graphics embed করতে কোন HTML element ব্যবহার করা হয়?",
+    "opt": ["<vector>", "<svg>", "<canvas>", "<graphics>"],
+    "ans": "<svg>",
+    "exp": "<svg> Element দিয়ে Vector Graphics তৈরি বা Embed করা যায়। SVG Resolution-independent হওয়ায় Zoom করলেও সাধারণত Quality নষ্ট হয় না।",
+    "lev": 0.6
+  },
+  {
+    "id": 162,
+    "q": "Users open বা close করতে পারে এমন disclosure widget display করে কোন HTML element?",
+    "opt": ["<details>", "<summary>", "<dialog>", "<toggle>"],
+    "ans": "<details>",
+    "exp": "<details> Element Expandable বা Collapsible Content তৈরি করে। এর ভিতরে <summary> দিয়ে Visible Heading নির্ধারণ করা হয়।",
+    "lev": 0.7
+  },
+  {
+    "id": 163,
+    "q": "Details widget-এর visible heading define করে কোন HTML element?",
+    "opt": ["<heading>", "<summary>", "<caption>", "<title>"],
+    "ans": "<summary>",
+    "exp": "<summary> Element হলো <details>-এর Visible Heading। ব্যবহারকারী এটিতে Click করে Content Expand বা Collapse করতে পারে।",
+    "lev": 0.7
+  },
+  {
+    "id": 164,
+    "q": "Date বা time value represent করে কোন HTML element?",
+    "opt": ["<time>", "<date>", "<clock>", "<datetime>"],
+    "ans": "<time>",
+    "exp": "<time> Element Date বা Time নির্দেশ করে। এর datetime Attribute দিয়ে Machine-readable Date বা Time দেওয়া যায়।",
+    "lev": 0.7
+  },
+  {
+    "id": 165,
+    "q": "Time element-এর জন্য machine-readable value কোন HTML attribute provide করে?",
+    "opt": ["value", "datetime", "timestamp", "datevalue"],
+    "ans": "datetime",
+    "exp": "<time> Element-এর datetime Attribute Machine-readable Date বা Time Value নির্ধারণ করে।",
+    "lev": 0.8
+  },
+  {
+    "id": 166,
+    "q": "Known range-এর মধ্যে mathematical বা scalar measurement represent করে কোন HTML element?",
+    "opt": ["<progress>", "<meter>", "<range>", "<measure>"],
+    "ans": "<meter>",
+    "exp": "<meter> Element নির্দিষ্ট Range-এর মধ্যে Scalar Measurement নির্দেশ করে। যেমন Disk Usage বা পরীক্ষার ফলাফলের অনুপাত।",
+    "lev": 0.8
+  },
+  {
+    "id": 167,
+    "q": "Task-এর completion progress display করে কোন HTML element?",
+    "opt": ["<meter>", "<progress>", "<loading>", "<status>"],
+    "ans": "<progress>",
+    "exp": "<progress> Element কোনো Task কতটুকু সম্পন্ন হয়েছে তা প্রদর্শন করে। যেমন File Upload Progress।",
+    "lev": 0.6
+  },
+  {
+    "id": 168,
+    "q": "Interactive dialog boxes-এর জন্য container provide করে কোন HTML element?",
+    "opt": ["<popup>", "<dialog>", "<window>", "<modal>"],
+    "ans": "<dialog>",
+    "exp": "<dialog> Element দিয়ে Dialog Box বা Modal তৈরি করা যায়। JavaScript-এর show() ও showModal() Method দিয়ে এটি প্রদর্শন করা যায়।",
+    "lev": 0.8
+  },
+  {
+    "id": 169,
+    "q": "Semantic HTML প্রাথমিকভাবে কী improve করে?",
+    "opt": ["Only background colors", "Meaning and structure of content", "Internet speed", "Database performance"],
+    "ans": "Meaning and structure of content",
+    "exp": "Semantic HTML Content-এর অর্থ ও Structure স্পষ্ট করে। এটি Accessibility, Maintainability এবং Search Engine Understanding উন্নত করতে সাহায্য করে।",
+    "lev": 0.7
+  },
+  {
+    "id": 170,
+    "q": "নিচের কোনটি semantic HTML element নয়?",
+    "opt": ["<article>", "<nav>", "<section>", "<div>"],
+    "ans": "<div>",
+    "exp": "<div> একটি Generic Container। এর নিজস্ব নির্দিষ্ট Semantic Meaning নেই। অন্যদিকে article, nav ও section Semantic Element।",
+    "lev": 0.6
+  },
+  {
+    "id": 171,
+    "q": "DOM-এর পূর্ণরূপ কী?",
+    "opt": ["Document Object Model", "Data Operation Method", "Document Order Management", "Dynamic Object Mapping"],
+    "ans": "Document Object Model",
+    "exp": "DOM-এর পূর্ণরূপ Document Object Model। এটি HTML Document-কে একটি Tree-like Object Structure হিসেবে উপস্থাপন করে, যা JavaScript দিয়ে Manipulate করা যায়।",
+    "lev": 0.6
+  },
+  {
+    "id": 172,
+    "q": "Web development-এ CSS-এর primary role কী?",
+    "opt": ["Manage databases", "Style and layout web pages", "Create network protocols", "Compile HTML"],
+    "ans": "Style and layout web pages",
+    "exp": "CSS-এর পূর্ণরূপ Cascading Style Sheets। এটি ওয়েবপেজের Appearance, Layout, Color, Typography ও Responsive Design নিয়ন্ত্রণ করে।",
+    "lev": 0.5
+  },
+  {
+    "id": 173,
+    "q": "Web page-এ JavaScript-এর primary role কী?",
+    "opt": ["Define document structure", "Add behavior and interactivity", "Store HTML tags", "Replace the web server"],
+    "ans": "Add behavior and interactivity",
+    "exp": "JavaScript দিয়ে ওয়েবপেজে Interactivity ও Dynamic Behavior যোগ করা হয়। যেমন Event Handling, DOM Manipulation ও Data Processing।",
+    "lev": 0.5
+  },
+  {
+    "id": 174,
+    "q": "Web page-এর structure-এর জন্য প্রাথমিকভাবে দায়ী কোন technology?",
+    "opt": ["CSS", "JavaScript", "HTML", "SQL"],
+    "ans": "HTML",
+    "exp": "HTML ওয়েবপেজের Structure ও Content নির্ধারণ করে। CSS Design এবং JavaScript Behavior নিয়ন্ত্রণ করে।",
+    "lev": 0.5
+  },
+  {
+    "id": 175,
+    "q": "URL-এর কোন অংশ communication protocol identify করে?",
+    "opt": ["example.com", "/about", "https://", "?id=5"],
+    "ans": "https://",
+    "exp": "URL-এর Scheme বা Protocol অংশ Communication Protocol নির্দেশ করে। যেমন https://।",
+    "lev": 0.7
+  },
+  {
+    "id": 176,
+    "q": "https://example.com/about URL-এ 'example.com' কী?",
+    "opt": ["Protocol", "Domain name", "Path", "Query parameter"],
+    "ans": "Domain name",
+    "exp": "https://example.com/about URL-এ example.com হলো Domain Name। /about হলো Path।",
+    "lev": 0.6
+  },
+  {
+    "id": 177,
+    "q": "https://example.com/products?id=10 URL-এ '?id=10' কী represent করে?",
+    "opt": ["Domain", "Protocol", "Query string", "File extension"],
+    "ans": "Query string",
+    "exp": "URL-এর ? চিহ্নের পর Query Parameters শুরু হয়। এখানে id হলো Parameter Name এবং 10 হলো Value।",
+    "lev": 0.7
+  },
+  {
+    "id": 178,
+    "q": "IP address প্রাথমিকভাবে কীসের জন্য ব্যবহৃত হয়?",
+    "opt": ["Formatting HTML", "Identifying a device or network interface on an IP network", "Creating CSS selectors", "Naming HTML elements"],
+    "ans": "Identifying a device or network interface on an IP network",
+    "exp": "IP Address হলো Internet Protocol Network-এ কোনো Device বা Network Interface শনাক্ত করার জন্য ব্যবহৃত Address।",
+    "lev": 0.7
+  },
+  {
+    "id": 179,
+    "q": "Network-এর মাধ্যমে computers-এর মধ্যে files transfer করতে সাধারণত কোন protocol ব্যবহার করা হয়?",
+    "opt": ["HTTP", "FTP", "SMTP", "DNS"],
+    "ans": "FTP",
+    "exp": "FTP-এর পূর্ণরূপ File Transfer Protocol। এটি Network-এর মাধ্যমে File Transfer করার জন্য ব্যবহৃত হয়।",
+    "lev": 0.6
+  },
+  {
+    "id": 180,
+    "q": "SMTP-এর পূর্ণরূপ কী?",
+    "opt": ["Simple Mail Transfer Protocol", "Secure Message Transport Process", "Standard Mail Transmission Program", "System Mail Transfer Protocol"],
+    "ans": "Simple Mail Transfer Protocol",
+    "exp": "SMTP-এর পূর্ণরূপ Simple Mail Transfer Protocol। এটি Email পাঠানোর জন্য ব্যবহৃত একটি Application Layer Protocol।",
+    "lev": 0.7
+  },
+  {
+    "id": 181,
+    "q": "Domain names resolve করতে প্রাথমিকভাবে কোন protocol ব্যবহার করা হয়?",
+    "opt": ["HTTP", "FTP", "DNS", "SMTP"],
+    "ans": "DNS",
+    "exp": "DNS-এর পূর্ণরূপ Domain Name System। এটি Domain Name-কে IP Address-এ Resolve করতে সাহায্য করে।",
+    "lev": 0.6
+  },
+  {
+    "id": 182,
+    "q": "Web server-এর role কী?",
+    "opt": ["Only design web pages", "Receive requests and provide web resources", "Translate Python into HTML", "Create domain names automatically"],
+    "ans": "Receive requests and provide web resources",
+    "exp": "Web Server Client-এর Request গ্রহণ করে এবং প্রয়োজনীয় Web Resource Response হিসেবে প্রদান করে।",
+    "lev": 0.6
+  },
+  {
+    "id": 183,
+    "q": "Web client-এর role কী?",
+    "opt": ["Provide hosting services", "Request and consume web resources", "Register domain names", "Manage DNS records only"],
+    "ans": "Request and consume web resources",
+    "exp": "Web Client হলো এমন Software বা Application যা Server-এর কাছে Web Resource-এর Request পাঠায় এবং Response গ্রহণ করে। Web Browser একটি সাধারণ উদাহরণ।",
+    "lev": 0.7
+  },
+  {
+    "id": 184,
+    "q": "Responsive viewport specify করতে কোন HTML element ব্যবহার করা হয়?",
+    "opt": ["<viewport>", "<meta>", "<screen>", "<responsive>"],
+    "ans": "<meta>",
+    "exp": "Viewport নির্ধারণ করতে <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"> ব্যবহার করা হয়। এটি Responsive Web Design-এর জন্য গুরুত্বপূর্ণ।",
+    "lev": 0.7
+  },
+  {
+    "id": 185,
+    "q": "Image-কে hyperlink-এর clickable content হিসেবে ব্যবহার করতে কোন attribute প্রয়োজন?",
+    "opt": ["src", "href", "alt", "target"],
+    "ans": "href",
+    "exp": "একটি <img> Element-কে <a> Element-এর ভিতরে রাখলে Image-টি Clickable Link হিসেবে কাজ করে। Link-এর Destination নির্ধারণ করে <a>-এর href Attribute।",
+    "lev": 0.7
+  },
+  {
+    "id": 186,
+    "q": "<p>Hello<br>World</p> HTML-এর output কী?",
+    "opt": ["Hello World on one line", "Hello and World on separate lines", "Only Hello", "An HTML error"],
+    "ans": "Hello and World on separate lines",
+    "exp": "<br> Tag Line Break তৈরি করে। তাই Hello এবং World দুটি আলাদা লাইনে প্রদর্শিত হবে।",
+    "lev": 0.6
+  },
+  {
+    "id": 187,
+    "q": "Standard HTML-এ কয়টি heading levels available?",
+    "opt": ["3", "4", "5", "6"],
+    "ans": "6",
+    "exp": "HTML-এ মোট ছয়টি Heading Level রয়েছে: <h1>, <h2>, <h3>, <h4>, <h5> এবং <h6>।",
+    "lev": 0.5
+  },
+  {
+    "id": 188,
+    "q": "Hyperlink-এ target=\"_self\" attribute-এর purpose কী?",
+    "opt": ["Open in a new tab", "Open in the same browsing context", "Download the linked file", "Open in a popup"],
+    "ans": "Open in the same browsing context",
+    "exp": "target=\"_self\" Link-কে বর্তমান Browsing Context-এই Open করে। এটি সাধারণত Default Behavior।",
+    "lev": 0.7
+  },
+  {
+    "id": 189,
+    "q": "CSS ও JavaScript selection-এর জন্য element-এর unique identifier কোন attribute specify করে?",
+    "opt": ["class", "id", "style", "name"],
+    "ans": "id",
+    "exp": "id Attribute Element-কে একটি Unique Identifier প্রদান করে। CSS-এ # এবং JavaScript-এ getElementById() দিয়ে এটি নির্বাচন করা যায়।",
+    "lev": 0.6
+  },
+  {
+    "id": 190,
+    "q": "Accessibility-এর জন্য alt attribute-এর main purpose কী?",
+    "opt": ["Improve image resolution", "Provide a text alternative for images", "Load images faster", "Change image dimensions"],
+    "ans": "Provide a text alternative for images",
+    "exp": "alt Attribute Screen Reader-কে Image-এর Text Alternative জানাতে সাহায্য করে। এতে দৃষ্টিপ্রতিবন্ধী ব্যবহারকারীরাও Image-এর উদ্দেশ্য বুঝতে পারেন।",
+    "lev": 0.7
+  },
+  {
+    "id": 191,
+    "q": "HTML-এ horizontal thematic break create করতে কোন tag ব্যবহার করা হয়?",
+    "opt": ["<br>", "<hr>", "<line>", "<border>"],
+    "ans": "<hr>",
+    "exp": "<hr> Tag একটি Thematic Break নির্দেশ করে। এটি সাধারণত বিষয়গতভাবে সম্পর্কিত নয় এমন Content আলাদা করতে ব্যবহৃত হয়।",
+    "lev": 0.5
+  },
+  {
+    "id": 192,
+    "q": "HTML attribute colspan=\"3\" মানে কী?",
+    "opt": ["The cell spans three rows", "The cell spans three columns", "The table has three rows", "The cell contains three values"],
+    "ans": "The cell spans three columns",
+    "exp": "colspan=\"3\" অর্থ একটি Table Cell তিনটি Column জুড়ে থাকবে।",
+    "lev": 0.6
+  },
+  {
+    "id": 193,
+    "q": "HTML attribute rowspan=\"2\" মানে কী?",
+    "opt": ["The cell spans two columns", "The cell spans two rows", "The table contains two cells", "The row is hidden"],
+    "ans": "The cell spans two rows",
+    "exp": "rowspan=\"2\" অর্থ একটি Table Cell দুটি Row জুড়ে বিস্তৃত থাকবে।",
+    "lev": 0.6
+  },
+  {
+    "id": 194,
+    "q": "Machine-readable বা human-readable abbreviation define করে কোন HTML tag?",
+    "opt": ["<abbr>", "<short>", "<acronym>", "<define>"],
+    "ans": "<abbr>",
+    "exp": "<abbr> Element দিয়ে Abbreviation বা Acronym নির্দেশ করা হয়। এর title Attribute দিয়ে পূর্ণরূপ দেওয়া যেতে পারে।",
+    "lev": 0.7
+  },
+  {
+    "id": 195,
+    "q": "Creative work-এর citation বা reference represent করে কোন HTML tag?",
+    "opt": ["<cite>", "<ref>", "<quote>", "<source>"],
+    "ans": "<cite>",
+    "exp": "<cite> Element কোনো Creative Work-এর Title বা Citation নির্দেশ করে। যেমন Book, Movie বা Research Paper-এর নাম।",
+    "lev": 0.7
+  },
+  {
+    "id": 196,
+    "q": "Input-কে regular expression-এর সঙ্গে match করতে বাধ্য করে কোন HTML attribute?",
+    "opt": ["pattern", "regex", "match", "validate"],
+    "ans": "pattern",
+    "exp": "pattern Attribute দিয়ে Input Value-এর জন্য Regular Expression নির্ধারণ করা যায়। এটি HTML Form Validation-এ ব্যবহৃত হয়।",
+    "lev": 0.8
+  },
+  {
+    "id": 197,
+    "q": "Text input-এ maximum number of characters allowed define করে কোন HTML attribute?",
+    "opt": ["max", "maxlength", "size", "limit"],
+    "ans": "maxlength",
+    "exp": "maxlength Attribute Text Input-এ সর্বোচ্চ কতটি Character প্রবেশ করানো যাবে তা নির্ধারণ করে।",
+    "lev": 0.7
+  },
+  {
+    "id": 198,
+    "q": "Number input-এর maximum allowed value কোন attribute specify করে?",
+    "opt": ["maxlength", "max", "limit", "maximum"],
+    "ans": "max",
+    "exp": "max Attribute Number, Date বা অন্যান্য সমর্থিত Input-এর সর্বোচ্চ গ্রহণযোগ্য Value নির্ধারণ করে।",
+    "lev": 0.7
+  },
+  {
+    "id": 199,
+    "q": "POST method ব্যবহার করে form-এ files upload করার জন্য কোন attribute প্রয়োজন?",
+    "opt": ["enctype=\"multipart/form-data\"", "encoding=\"file\"", "method=\"file\"", "type=\"upload\""],
+    "ans": "enctype=\"multipart/form-data\"",
+    "exp": "File Upload-এর জন্য Form-এ method=\"post\" এবং enctype=\"multipart/form-data\" ব্যবহার করা হয়। File Input-এর জন্য <input type=\"file\"> প্রয়োজন।",
+    "lev": 0.9
+  },
+  {
+    "id": 200,
+    "q": "Modern front-end web development-এর three core technologies সঠিকভাবে কোনটি represent করে?",
+    "opt": ["HTML, CSS, JavaScript", "Python, SQL, Rust", "C, C++, Java", "PHP, MySQL, Linux"],
+    "ans": "HTML, CSS, JavaScript",
+    "exp": "HTML ওয়েবপেজের Structure তৈরি করে, CSS Appearance ও Layout নিয়ন্ত্রণ করে এবং JavaScript Interactivity ও Behavior যোগ করে। এই তিনটি Technology Front-end Web Development-এর মূল ভিত্তি।",
+    "lev": 0.5
+  }
+]
